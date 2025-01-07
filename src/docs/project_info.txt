@@ -1,0 +1,123 @@
+1. TABLE CREATION
+
+-customer data-
+CREATE TABLE IF NOT EXISTS customer_data (
+    `Customer ID` BIGINT PRIMARY KEY,
+    `Age` BIGINT NOT NULL,
+    `Gender` TEXT NOT NULL,
+    `Frequency of Purchases` TEXT NOT NULL
+);
+
+-items data-
+CREATE TABLE IF NOT EXISTS items_data (
+    `Item ID` BIGINT PRIMARY KEY,
+    `Item Purchased` TEXT NOT NULL,
+    `Category` TEXT NOT NULL
+);
+
+-purchases data-
+CREATE TABLE IF NOT EXISTS purchases_data (
+    `Purchase ID` BIGINT PRIMARY KEY,
+    `Customer ID` BIGINT NOT NULL,
+    `Item ID` BIGINT NOT NULL,
+    `Purchase Amount (USD)` BIGINT NOT NULL,
+    `Discount Applied` TEXT NOT NULL,
+    `Season` TEXT NOT NULL,
+    -> Constraints: relationships with foreign keys
+    CONSTRAINT fk_customer FOREIGN KEY (`Customer ID`) REFERENCES customer_data(`Customer ID`),
+    CONSTRAINT fk_item FOREIGN KEY (`Item ID`) REFERENCES items_data(`Item ID`)
+);
+
+
+2. VIEWS CREATION
+
+-combining customer and purchase information-
+CREATE OR REPLACE VIEW customer_purchases_view AS
+SELECT
+    c.`Customer ID`,
+    c.`Age`,
+    c.`Gender`,
+    c.`Frequency of Purchases`,
+    p.`Purchase ID`,
+    p.`Purchase Amount (USD)`,
+    p.`Discount Applied`,
+    p.`Season`
+FROM
+    customer_data c
+JOIN
+    purchases_data p
+ON
+    c.`Customer ID` = p.`Customer ID`;
+
+-combining purchase and item details-
+CREATE OR REPLACE VIEW detailed_purchases_view AS
+SELECT
+    p.`Purchase ID`,
+    p.`Customer ID`,
+    p.`Item ID`,
+    i.`Item Purchased`,
+    i.`Category`,
+    p.`Purchase Amount (USD)`,
+    p.`Discount Applied`,
+    p.`Season`
+FROM
+    purchases_data p
+JOIN
+    items_data i
+ON
+    p.`Item ID` = i.`Item ID`;
+
+
+3. CONSTRAINT DEFINITIONS
+
+Primary Keys:
+   Each table has a unique identifier to keep its records separate:
+   - In `customer_data`, the primary key is `Customer ID`.
+   - In `items_data`, the primary key is `Item ID`.
+   - In `purchases_data`, the primary key is `Purchase ID`.
+Foreign Keys:
+   I linked the `purchases_data` table with the other two tables so i can track which customers bought which items:
+   - The `Customer ID` column in `purchases_data` connects to `Customer ID` in the `customer_data` table.
+   - The `Item ID` column in `purchases_data` connects to `Item ID` in the `items_data` table.
+
+
+4.USAGE QUERIES
+
+-insert new customer-
+INSERT INTO customer_data (`Customer ID`, `Age`, `Gender`, `Frequency of Purchases`)
+VALUES (3901, 30, 'Male', 'Monthly');
+
+-insert new purchase-
+INSERT INTO purchases_data (
+    `Purchase ID`, `Customer ID`, `Item ID`, `Purchase Amount (USD)`, `Discount Applied`, `Season`)
+VALUES (5000, 3901, 24, 300, 'Yes', 'Winter');
+
+-update customer-
+UPDATE customer_data
+SET `Age` = 54
+WHERE `Customer ID` = 3900;
+
+-Delete a customer (and their purchases)-
+DELETE FROM purchases_data WHERE `Customer ID` = 3901;
+DELETE FROM customer_data WHERE `Customer ID` = 3901;
+
+-Aggregate purchase amounts by age range-
+SELECT
+    CASE
+        WHEN Age BETWEEN 18 AND 30 THEN '18-30'
+        WHEN Age BETWEEN 31 AND 50 THEN '31-50'
+        WHEN Age > 50 THEN '50+'
+    END AS Age_Range,
+    SUM(`Purchase Amount (USD)`) AS Total_Spent
+FROM customer_purchases_view
+GROUP BY Age_Range;
+
+-Aggregating purchase information based on discounts applied-
+SELECT
+    `Discount Applied`,
+    SUM(`Purchase Amount (USD)`) AS Total_Purchase_Amount,
+    AVG(`Purchase Amount (USD)`) AS Average_Purchase_Amount
+FROM
+    purchases_data
+GROUP BY
+    `Discount Applied`;

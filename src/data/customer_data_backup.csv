@@ -1,0 +1,3901 @@
+Customer ID,Age,Gender,Frequency of Purchases
+1,55,Male,Fortnightly
+2,19,Male,Fortnightly
+3,50,Male,Weekly
+4,21,Male,Weekly
+5,45,Male,Annually
+6,46,Male,Weekly
+7,63,Male,Quarterly
+8,27,Male,Weekly
+9,26,Male,Annually
+10,57,Male,Quarterly
+11,53,Male,Bi-Weekly
+12,30,Male,Fortnightly
+13,61,Male,Fortnightly
+14,65,Male,Weekly
+15,64,Male,Weekly
+16,64,Male,Monthly
+17,25,Male,Bi-Weekly
+18,53,Male,Quarterly
+19,52,Male,Weekly
+20,66,Male,Bi-Weekly
+21,21,Male,Every 3 Months
+22,31,Male,Quarterly
+23,56,Male,Annually
+24,31,Male,Weekly
+25,18,Male,Weekly
+26,18,Male,Annually
+27,38,Male,Annually
+28,56,Male,Every 3 Months
+29,54,Male,Every 3 Months
+30,31,Male,Weekly
+31,57,Male,Monthly
+32,33,Male,Monthly
+33,36,Male,Annually
+34,54,Male,Quarterly
+35,36,Male,Quarterly
+36,54,Male,Bi-Weekly
+37,35,Male,Fortnightly
+38,35,Male,Weekly
+39,29,Male,Every 3 Months
+40,70,Male,Monthly
+41,69,Male,Quarterly
+42,67,Male,Annually
+43,20,Male,Annually
+44,25,Male,Fortnightly
+45,39,Male,Weekly
+46,50,Male,Annually
+47,57,Male,Quarterly
+48,55,Male,Weekly
+49,42,Male,Monthly
+50,68,Male,Bi-Weekly
+51,49,Male,Bi-Weekly
+52,59,Male,Quarterly
+53,42,Male,Weekly
+54,29,Male,Weekly
+55,47,Male,Bi-Weekly
+56,40,Male,Annually
+57,41,Male,Weekly
+58,21,Male,Fortnightly
+59,69,Male,Monthly
+60,63,Male,Weekly
+61,50,Male,Weekly
+62,55,Male,Every 3 Months
+63,30,Male,Fortnightly
+64,33,Male,Weekly
+65,65,Male,Fortnightly
+66,65,Male,Every 3 Months
+67,31,Male,Every 3 Months
+68,45,Male,Monthly
+69,57,Male,Every 3 Months
+70,48,Male,Weekly
+71,22,Male,Every 3 Months
+72,36,Male,Annually
+73,18,Male,Every 3 Months
+74,48,Male,Bi-Weekly
+75,49,Male,Monthly
+76,64,Male,Annually
+77,50,Male,Monthly
+78,22,Male,Fortnightly
+79,50,Male,Fortnightly
+80,38,Male,Every 3 Months
+81,19,Male,Every 3 Months
+82,67,Male,Every 3 Months
+83,19,Male,Every 3 Months
+84,36,Male,Weekly
+85,52,Male,Every 3 Months
+86,53,Male,Bi-Weekly
+87,24,Male,Bi-Weekly
+88,52,Male,Fortnightly
+89,33,Male,Monthly
+90,47,Male,Quarterly
+91,25,Male,Monthly
+92,44,Male,Every 3 Months
+93,61,Male,Every 3 Months
+94,37,Male,Weekly
+95,58,Male,Weekly
+96,37,Male,Monthly
+97,32,Male,Every 3 Months
+98,21,Male,Annually
+99,20,Male,Annually
+100,26,Male,Quarterly
+101,62,Male,Fortnightly
+102,27,Male,Bi-Weekly
+103,51,Male,Quarterly
+104,54,Male,Bi-Weekly
+105,55,Male,Monthly
+106,69,Male,Annually
+107,64,Male,Monthly
+108,28,Male,Fortnightly
+109,70,Male,Bi-Weekly
+110,58,Male,Fortnightly
+111,56,Male,Fortnightly
+112,26,Male,Annually
+113,37,Male,Bi-Weekly
+114,44,Male,Quarterly
+115,70,Male,Weekly
+116,53,Male,Every 3 Months
+117,55,Male,Annually
+118,50,Male,Fortnightly
+119,50,Male,Bi-Weekly
+120,38,Male,Annually
+121,64,Male,Annually
+122,19,Male,Fortnightly
+123,40,Male,Fortnightly
+124,57,Male,Weekly
+125,44,Male,Annually
+126,49,Male,Every 3 Months
+127,43,Male,Every 3 Months
+128,24,Male,Weekly
+129,20,Male,Fortnightly
+130,24,Male,Bi-Weekly
+131,44,Male,Fortnightly
+132,28,Male,Weekly
+133,30,Male,Weekly
+134,52,Male,Annually
+135,43,Male,Monthly
+136,43,Male,Quarterly
+137,39,Male,Quarterly
+138,68,Male,Weekly
+139,68,Male,Weekly
+140,49,Male,Annually
+141,63,Male,Weekly
+142,56,Male,Weekly
+143,37,Male,Fortnightly
+144,30,Male,Quarterly
+145,19,Male,Monthly
+146,24,Male,Quarterly
+147,52,Male,Fortnightly
+148,63,Male,Fortnightly
+149,37,Male,Annually
+150,38,Male,Monthly
+151,35,Male,Every 3 Months
+152,28,Male,Annually
+153,30,Male,Annually
+154,69,Male,Annually
+155,41,Male,Quarterly
+156,63,Male,Quarterly
+157,35,Male,Annually
+158,36,Male,Fortnightly
+159,25,Male,Monthly
+160,58,Male,Every 3 Months
+161,27,Male,Monthly
+162,65,Male,Fortnightly
+163,54,Male,Bi-Weekly
+164,54,Male,Weekly
+165,59,Male,Fortnightly
+166,42,Male,Monthly
+167,46,Male,Monthly
+168,33,Male,Every 3 Months
+169,34,Male,Fortnightly
+170,27,Male,Every 3 Months
+171,52,Male,Bi-Weekly
+172,29,Male,Weekly
+173,54,Male,Bi-Weekly
+174,25,Male,Annually
+175,41,Male,Annually
+176,53,Male,Annually
+177,53,Male,Quarterly
+178,21,Male,Monthly
+179,61,Male,Quarterly
+180,64,Male,Fortnightly
+181,51,Male,Fortnightly
+182,32,Male,Weekly
+183,38,Male,Annually
+184,58,Male,Weekly
+185,32,Male,Fortnightly
+186,46,Male,Fortnightly
+187,39,Male,Annually
+188,19,Male,Bi-Weekly
+189,50,Male,Bi-Weekly
+190,36,Male,Weekly
+191,65,Male,Quarterly
+192,64,Male,Every 3 Months
+193,46,Male,Bi-Weekly
+194,36,Male,Annually
+195,51,Male,Quarterly
+196,51,Male,Monthly
+197,38,Male,Fortnightly
+198,59,Male,Monthly
+199,57,Male,Fortnightly
+200,54,Male,Weekly
+201,25,Male,Monthly
+202,69,Male,Annually
+203,57,Male,Annually
+204,70,Male,Weekly
+205,24,Male,Bi-Weekly
+206,67,Male,Weekly
+207,24,Male,Fortnightly
+208,62,Male,Bi-Weekly
+209,57,Male,Monthly
+210,55,Male,Every 3 Months
+211,45,Male,Fortnightly
+212,69,Male,Fortnightly
+213,67,Male,Annually
+214,30,Male,Every 3 Months
+215,24,Male,Every 3 Months
+216,62,Male,Bi-Weekly
+217,43,Male,Weekly
+218,35,Male,Annually
+219,28,Male,Quarterly
+220,32,Male,Fortnightly
+221,39,Male,Fortnightly
+222,28,Male,Quarterly
+223,47,Male,Fortnightly
+224,20,Male,Annually
+225,63,Male,Every 3 Months
+226,25,Male,Annually
+227,29,Male,Monthly
+228,50,Male,Fortnightly
+229,18,Male,Annually
+230,70,Male,Every 3 Months
+231,66,Male,Annually
+232,28,Male,Every 3 Months
+233,54,Male,Bi-Weekly
+234,19,Male,Every 3 Months
+235,20,Male,Weekly
+236,43,Male,Quarterly
+237,38,Male,Fortnightly
+238,50,Male,Fortnightly
+239,64,Male,Annually
+240,49,Male,Bi-Weekly
+241,47,Male,Fortnightly
+242,36,Male,Bi-Weekly
+243,55,Male,Every 3 Months
+244,25,Male,Monthly
+245,53,Male,Weekly
+246,49,Male,Fortnightly
+247,35,Male,Bi-Weekly
+248,29,Male,Weekly
+249,47,Male,Weekly
+250,53,Male,Annually
+251,33,Male,Weekly
+252,21,Male,Annually
+253,32,Male,Fortnightly
+254,52,Male,Bi-Weekly
+255,67,Male,Bi-Weekly
+256,43,Male,Annually
+257,58,Male,Every 3 Months
+258,20,Male,Quarterly
+259,61,Male,Quarterly
+260,32,Male,Annually
+261,38,Male,Every 3 Months
+262,21,Male,Annually
+263,37,Male,Annually
+264,27,Male,Monthly
+265,36,Male,Annually
+266,32,Male,Bi-Weekly
+267,51,Male,Weekly
+268,64,Male,Annually
+269,68,Male,Monthly
+270,68,Male,Bi-Weekly
+271,33,Male,Annually
+272,65,Male,Fortnightly
+273,48,Male,Bi-Weekly
+274,69,Male,Quarterly
+275,59,Male,Bi-Weekly
+276,48,Male,Weekly
+277,25,Male,Fortnightly
+278,29,Male,Bi-Weekly
+279,57,Male,Annually
+280,23,Male,Monthly
+281,45,Male,Bi-Weekly
+282,38,Male,Bi-Weekly
+283,21,Male,Monthly
+284,32,Male,Annually
+285,63,Male,Quarterly
+286,29,Male,Bi-Weekly
+287,27,Male,Annually
+288,56,Male,Fortnightly
+289,30,Male,Bi-Weekly
+290,49,Male,Monthly
+291,58,Male,Weekly
+292,57,Male,Monthly
+293,60,Male,Quarterly
+294,69,Male,Annually
+295,70,Male,Every 3 Months
+296,53,Male,Quarterly
+297,25,Male,Weekly
+298,48,Male,Bi-Weekly
+299,69,Male,Every 3 Months
+300,25,Male,Fortnightly
+301,29,Male,Weekly
+302,46,Male,Every 3 Months
+303,37,Male,Every 3 Months
+304,20,Male,Weekly
+305,40,Male,Bi-Weekly
+306,60,Male,Annually
+307,26,Male,Annually
+308,29,Male,Every 3 Months
+309,66,Male,Bi-Weekly
+310,66,Male,Fortnightly
+311,56,Male,Fortnightly
+312,69,Male,Monthly
+313,38,Male,Annually
+314,42,Male,Every 3 Months
+315,30,Male,Every 3 Months
+316,66,Male,Annually
+317,36,Male,Monthly
+318,58,Male,Every 3 Months
+319,45,Male,Annually
+320,47,Male,Every 3 Months
+321,66,Male,Quarterly
+322,41,Male,Quarterly
+323,41,Male,Monthly
+324,66,Male,Bi-Weekly
+325,37,Male,Quarterly
+326,70,Male,Annually
+327,62,Male,Weekly
+328,61,Male,Weekly
+329,48,Male,Weekly
+330,70,Male,Monthly
+331,46,Male,Bi-Weekly
+332,31,Male,Quarterly
+333,19,Male,Monthly
+334,39,Male,Bi-Weekly
+335,41,Male,Annually
+336,20,Male,Every 3 Months
+337,36,Male,Annually
+338,32,Male,Annually
+339,69,Male,Weekly
+340,40,Male,Every 3 Months
+341,40,Male,Every 3 Months
+342,20,Male,Bi-Weekly
+343,64,Male,Every 3 Months
+344,27,Male,Monthly
+345,24,Male,Monthly
+346,48,Male,Annually
+347,49,Male,Weekly
+348,36,Male,Fortnightly
+349,56,Male,Fortnightly
+350,37,Male,Bi-Weekly
+351,42,Male,Fortnightly
+352,28,Male,Bi-Weekly
+353,27,Male,Every 3 Months
+354,63,Male,Monthly
+355,58,Male,Weekly
+356,37,Male,Every 3 Months
+357,56,Male,Weekly
+358,18,Male,Bi-Weekly
+359,48,Male,Every 3 Months
+360,31,Male,Every 3 Months
+361,51,Male,Fortnightly
+362,65,Male,Annually
+363,53,Male,Fortnightly
+364,55,Male,Fortnightly
+365,62,Male,Every 3 Months
+366,55,Male,Quarterly
+367,64,Male,Fortnightly
+368,52,Male,Monthly
+369,24,Male,Monthly
+370,38,Male,Quarterly
+371,59,Male,Weekly
+372,27,Male,Monthly
+373,24,Male,Weekly
+374,23,Male,Bi-Weekly
+375,69,Male,Monthly
+376,59,Male,Quarterly
+377,51,Male,Bi-Weekly
+378,63,Male,Every 3 Months
+379,54,Male,Monthly
+380,32,Male,Bi-Weekly
+381,39,Male,Weekly
+382,66,Male,Every 3 Months
+383,28,Male,Quarterly
+384,50,Male,Quarterly
+385,70,Male,Annually
+386,67,Male,Bi-Weekly
+387,64,Male,Quarterly
+388,45,Male,Fortnightly
+389,22,Male,Quarterly
+390,27,Male,Monthly
+391,25,Male,Annually
+392,37,Male,Fortnightly
+393,26,Male,Annually
+394,33,Male,Fortnightly
+395,43,Male,Bi-Weekly
+396,37,Male,Annually
+397,46,Male,Annually
+398,22,Male,Annually
+399,20,Male,Every 3 Months
+400,60,Male,Monthly
+401,39,Male,Fortnightly
+402,43,Male,Quarterly
+403,31,Male,Monthly
+404,19,Male,Annually
+405,35,Male,Monthly
+406,41,Male,Annually
+407,52,Male,Monthly
+408,45,Male,Bi-Weekly
+409,34,Male,Fortnightly
+410,35,Male,Monthly
+411,29,Male,Quarterly
+412,59,Male,Annually
+413,24,Male,Weekly
+414,70,Male,Monthly
+415,29,Male,Weekly
+416,67,Male,Monthly
+417,36,Male,Fortnightly
+418,23,Male,Quarterly
+419,18,Male,Bi-Weekly
+420,53,Male,Every 3 Months
+421,32,Male,Bi-Weekly
+422,38,Male,Bi-Weekly
+423,47,Male,Annually
+424,46,Male,Bi-Weekly
+425,66,Male,Fortnightly
+426,40,Male,Quarterly
+427,43,Male,Quarterly
+428,58,Male,Quarterly
+429,21,Male,Fortnightly
+430,42,Male,Fortnightly
+431,24,Male,Annually
+432,43,Male,Fortnightly
+433,47,Male,Weekly
+434,49,Male,Fortnightly
+435,50,Male,Every 3 Months
+436,51,Male,Monthly
+437,40,Male,Weekly
+438,45,Male,Annually
+439,52,Male,Fortnightly
+440,62,Male,Monthly
+441,20,Male,Fortnightly
+442,43,Male,Annually
+443,29,Male,Quarterly
+444,22,Male,Annually
+445,48,Male,Annually
+446,42,Male,Annually
+447,19,Male,Monthly
+448,60,Male,Every 3 Months
+449,32,Male,Fortnightly
+450,26,Male,Monthly
+451,25,Male,Monthly
+452,66,Male,Fortnightly
+453,45,Male,Fortnightly
+454,54,Male,Weekly
+455,37,Male,Bi-Weekly
+456,54,Male,Fortnightly
+457,50,Male,Quarterly
+458,25,Male,Every 3 Months
+459,47,Male,Monthly
+460,63,Male,Fortnightly
+461,64,Male,Weekly
+462,18,Male,Weekly
+463,59,Male,Every 3 Months
+464,37,Male,Weekly
+465,23,Male,Monthly
+466,54,Male,Quarterly
+467,38,Male,Weekly
+468,19,Male,Every 3 Months
+469,34,Male,Quarterly
+470,21,Male,Bi-Weekly
+471,50,Male,Every 3 Months
+472,55,Male,Quarterly
+473,20,Male,Quarterly
+474,34,Male,Every 3 Months
+475,62,Male,Quarterly
+476,21,Male,Annually
+477,21,Male,Fortnightly
+478,42,Male,Weekly
+479,35,Male,Annually
+480,39,Male,Monthly
+481,68,Male,Bi-Weekly
+482,46,Male,Fortnightly
+483,41,Male,Annually
+484,23,Male,Weekly
+485,68,Male,Quarterly
+486,48,Male,Fortnightly
+487,38,Male,Every 3 Months
+488,41,Male,Quarterly
+489,58,Male,Weekly
+490,49,Male,Annually
+491,57,Male,Monthly
+492,49,Male,Bi-Weekly
+493,50,Male,Weekly
+494,28,Male,Bi-Weekly
+495,38,Male,Weekly
+496,33,Male,Fortnightly
+497,30,Male,Fortnightly
+498,43,Male,Weekly
+499,43,Male,Monthly
+500,36,Male,Monthly
+501,36,Male,Every 3 Months
+502,64,Male,Annually
+503,59,Male,Fortnightly
+504,55,Male,Quarterly
+505,42,Male,Annually
+506,61,Male,Bi-Weekly
+507,28,Male,Annually
+508,65,Male,Fortnightly
+509,27,Male,Quarterly
+510,41,Male,Weekly
+511,21,Male,Annually
+512,61,Male,Annually
+513,19,Male,Monthly
+514,22,Male,Annually
+515,64,Male,Quarterly
+516,28,Male,Monthly
+517,34,Male,Bi-Weekly
+518,61,Male,Every 3 Months
+519,24,Male,Every 3 Months
+520,19,Male,Quarterly
+521,51,Male,Quarterly
+522,36,Male,Annually
+523,65,Male,Quarterly
+524,46,Male,Quarterly
+525,59,Male,Annually
+526,51,Male,Monthly
+527,51,Male,Monthly
+528,21,Male,Every 3 Months
+529,34,Male,Annually
+530,32,Male,Monthly
+531,48,Male,Bi-Weekly
+532,50,Male,Weekly
+533,26,Male,Every 3 Months
+534,57,Male,Weekly
+535,65,Male,Quarterly
+536,56,Male,Weekly
+537,44,Male,Every 3 Months
+538,50,Male,Annually
+539,27,Male,Weekly
+540,49,Male,Weekly
+541,49,Male,Every 3 Months
+542,52,Male,Bi-Weekly
+543,27,Male,Bi-Weekly
+544,53,Male,Monthly
+545,34,Male,Every 3 Months
+546,33,Male,Annually
+547,62,Male,Bi-Weekly
+548,38,Male,Weekly
+549,36,Male,Every 3 Months
+550,31,Male,Bi-Weekly
+551,62,Male,Weekly
+552,29,Male,Bi-Weekly
+553,24,Male,Weekly
+554,63,Male,Quarterly
+555,56,Male,Weekly
+556,63,Male,Annually
+557,40,Male,Fortnightly
+558,18,Male,Weekly
+559,50,Male,Every 3 Months
+560,66,Male,Monthly
+561,25,Male,Annually
+562,65,Male,Fortnightly
+563,53,Male,Annually
+564,61,Male,Quarterly
+565,67,Male,Weekly
+566,59,Male,Weekly
+567,55,Male,Fortnightly
+568,21,Male,Fortnightly
+569,44,Male,Monthly
+570,65,Male,Every 3 Months
+571,65,Male,Annually
+572,54,Male,Weekly
+573,56,Male,Annually
+574,58,Male,Bi-Weekly
+575,54,Male,Bi-Weekly
+576,58,Male,Monthly
+577,48,Male,Every 3 Months
+578,19,Male,Annually
+579,69,Male,Fortnightly
+580,58,Male,Annually
+581,49,Male,Weekly
+582,32,Male,Every 3 Months
+583,40,Male,Quarterly
+584,25,Male,Monthly
+585,70,Male,Monthly
+586,69,Male,Every 3 Months
+587,45,Male,Annually
+588,29,Male,Every 3 Months
+589,47,Male,Quarterly
+590,28,Male,Annually
+591,64,Male,Fortnightly
+592,47,Male,Bi-Weekly
+593,60,Male,Every 3 Months
+594,67,Male,Every 3 Months
+595,35,Male,Monthly
+596,30,Male,Quarterly
+597,23,Male,Annually
+598,70,Male,Fortnightly
+599,21,Male,Every 3 Months
+600,51,Male,Every 3 Months
+601,22,Male,Monthly
+602,32,Male,Fortnightly
+603,37,Male,Every 3 Months
+604,31,Male,Every 3 Months
+605,44,Male,Every 3 Months
+606,40,Male,Weekly
+607,27,Male,Monthly
+608,47,Male,Monthly
+609,41,Male,Every 3 Months
+610,51,Male,Fortnightly
+611,53,Male,Every 3 Months
+612,43,Male,Monthly
+613,67,Male,Quarterly
+614,61,Male,Bi-Weekly
+615,68,Male,Bi-Weekly
+616,67,Male,Annually
+617,29,Male,Every 3 Months
+618,50,Male,Quarterly
+619,61,Male,Bi-Weekly
+620,19,Male,Every 3 Months
+621,33,Male,Every 3 Months
+622,51,Male,Weekly
+623,69,Male,Fortnightly
+624,19,Male,Bi-Weekly
+625,55,Male,Annually
+626,49,Male,Weekly
+627,31,Male,Annually
+628,42,Male,Monthly
+629,69,Male,Monthly
+630,26,Male,Annually
+631,41,Male,Annually
+632,55,Male,Fortnightly
+633,35,Male,Fortnightly
+634,66,Male,Quarterly
+635,36,Male,Weekly
+636,27,Male,Quarterly
+637,41,Male,Every 3 Months
+638,21,Male,Fortnightly
+639,53,Male,Monthly
+640,54,Male,Annually
+641,53,Male,Fortnightly
+642,47,Male,Every 3 Months
+643,64,Male,Bi-Weekly
+644,18,Male,Every 3 Months
+645,68,Male,Weekly
+646,62,Male,Bi-Weekly
+647,51,Male,Bi-Weekly
+648,54,Male,Fortnightly
+649,22,Male,Weekly
+650,53,Male,Every 3 Months
+651,34,Male,Annually
+652,32,Male,Fortnightly
+653,64,Male,Weekly
+654,20,Male,Fortnightly
+655,24,Male,Annually
+656,20,Male,Monthly
+657,42,Male,Quarterly
+658,48,Male,Quarterly
+659,62,Male,Weekly
+660,62,Male,Weekly
+661,50,Male,Quarterly
+662,57,Male,Quarterly
+663,24,Male,Bi-Weekly
+664,59,Male,Monthly
+665,63,Male,Bi-Weekly
+666,41,Male,Annually
+667,35,Male,Quarterly
+668,34,Male,Quarterly
+669,49,Male,Monthly
+670,43,Male,Bi-Weekly
+671,63,Male,Bi-Weekly
+672,38,Male,Weekly
+673,59,Male,Quarterly
+674,35,Male,Bi-Weekly
+675,48,Male,Annually
+676,64,Male,Annually
+677,28,Male,Bi-Weekly
+678,60,Male,Annually
+679,27,Male,Every 3 Months
+680,56,Male,Fortnightly
+681,58,Male,Annually
+682,30,Male,Every 3 Months
+683,23,Male,Bi-Weekly
+684,33,Male,Monthly
+685,63,Male,Monthly
+686,70,Male,Fortnightly
+687,70,Male,Fortnightly
+688,19,Male,Quarterly
+689,25,Male,Monthly
+690,19,Male,Every 3 Months
+691,25,Male,Weekly
+692,60,Male,Bi-Weekly
+693,35,Male,Every 3 Months
+694,46,Male,Every 3 Months
+695,41,Male,Every 3 Months
+696,30,Male,Every 3 Months
+697,44,Male,Monthly
+698,61,Male,Quarterly
+699,55,Male,Weekly
+700,50,Male,Weekly
+701,57,Male,Monthly
+702,51,Male,Every 3 Months
+703,18,Male,Weekly
+704,63,Male,Weekly
+705,34,Male,Annually
+706,25,Male,Quarterly
+707,46,Male,Weekly
+708,59,Male,Annually
+709,37,Male,Fortnightly
+710,49,Male,Monthly
+711,22,Male,Fortnightly
+712,64,Male,Bi-Weekly
+713,42,Male,Quarterly
+714,37,Male,Bi-Weekly
+715,26,Male,Fortnightly
+716,33,Male,Quarterly
+717,30,Male,Bi-Weekly
+718,21,Male,Every 3 Months
+719,22,Male,Annually
+720,63,Male,Bi-Weekly
+721,33,Male,Weekly
+722,43,Male,Every 3 Months
+723,27,Male,Bi-Weekly
+724,35,Male,Monthly
+725,37,Male,Every 3 Months
+726,61,Male,Fortnightly
+727,32,Male,Every 3 Months
+728,62,Male,Every 3 Months
+729,29,Male,Every 3 Months
+730,41,Male,Every 3 Months
+731,48,Male,Fortnightly
+732,43,Male,Fortnightly
+733,34,Male,Bi-Weekly
+734,45,Male,Bi-Weekly
+735,65,Male,Every 3 Months
+736,61,Male,Bi-Weekly
+737,18,Male,Every 3 Months
+738,47,Male,Annually
+739,56,Male,Quarterly
+740,64,Male,Bi-Weekly
+741,26,Male,Fortnightly
+742,22,Male,Every 3 Months
+743,64,Male,Quarterly
+744,21,Male,Weekly
+745,67,Male,Bi-Weekly
+746,46,Male,Monthly
+747,40,Male,Annually
+748,51,Male,Weekly
+749,35,Male,Quarterly
+750,56,Male,Quarterly
+751,25,Male,Annually
+752,65,Male,Monthly
+753,39,Male,Every 3 Months
+754,47,Male,Quarterly
+755,36,Male,Quarterly
+756,66,Male,Weekly
+757,62,Male,Fortnightly
+758,41,Male,Quarterly
+759,66,Male,Every 3 Months
+760,51,Male,Fortnightly
+761,33,Male,Annually
+762,57,Male,Weekly
+763,45,Male,Fortnightly
+764,61,Male,Monthly
+765,55,Male,Quarterly
+766,54,Male,Quarterly
+767,57,Male,Monthly
+768,27,Male,Annually
+769,64,Male,Weekly
+770,52,Male,Monthly
+771,19,Male,Annually
+772,22,Male,Fortnightly
+773,18,Male,Bi-Weekly
+774,29,Male,Bi-Weekly
+775,42,Male,Quarterly
+776,49,Male,Monthly
+777,49,Male,Every 3 Months
+778,55,Male,Weekly
+779,29,Male,Annually
+780,60,Male,Annually
+781,34,Male,Quarterly
+782,30,Male,Fortnightly
+783,28,Male,Weekly
+784,63,Male,Fortnightly
+785,31,Male,Every 3 Months
+786,46,Male,Fortnightly
+787,70,Male,Every 3 Months
+788,53,Male,Weekly
+789,50,Male,Quarterly
+790,33,Male,Bi-Weekly
+791,22,Male,Quarterly
+792,50,Male,Fortnightly
+793,34,Male,Weekly
+794,24,Male,Monthly
+795,69,Male,Fortnightly
+796,39,Male,Annually
+797,42,Male,Annually
+798,42,Male,Weekly
+799,29,Male,Every 3 Months
+800,55,Male,Annually
+801,32,Male,Every 3 Months
+802,25,Male,Fortnightly
+803,38,Male,Weekly
+804,32,Male,Every 3 Months
+805,43,Male,Quarterly
+806,41,Male,Monthly
+807,56,Male,Quarterly
+808,27,Male,Weekly
+809,46,Male,Every 3 Months
+810,48,Male,Bi-Weekly
+811,52,Male,Bi-Weekly
+812,18,Male,Quarterly
+813,64,Male,Weekly
+814,54,Male,Annually
+815,31,Male,Monthly
+816,30,Male,Bi-Weekly
+817,26,Male,Monthly
+818,25,Male,Fortnightly
+819,59,Male,Monthly
+820,55,Male,Quarterly
+821,56,Male,Monthly
+822,62,Male,Bi-Weekly
+823,35,Male,Annually
+824,51,Male,Quarterly
+825,61,Male,Quarterly
+826,27,Male,Monthly
+827,54,Male,Weekly
+828,31,Male,Fortnightly
+829,24,Male,Bi-Weekly
+830,42,Male,Fortnightly
+831,41,Male,Annually
+832,66,Male,Every 3 Months
+833,58,Male,Bi-Weekly
+834,43,Male,Annually
+835,52,Male,Weekly
+836,35,Male,Weekly
+837,23,Male,Bi-Weekly
+838,25,Male,Every 3 Months
+839,33,Male,Annually
+840,48,Male,Every 3 Months
+841,42,Male,Weekly
+842,55,Male,Fortnightly
+843,59,Male,Weekly
+844,65,Male,Weekly
+845,59,Male,Bi-Weekly
+846,31,Male,Monthly
+847,49,Male,Quarterly
+848,53,Male,Monthly
+849,48,Male,Bi-Weekly
+850,23,Male,Quarterly
+851,68,Male,Monthly
+852,35,Male,Monthly
+853,34,Male,Every 3 Months
+854,62,Male,Monthly
+855,21,Male,Monthly
+856,70,Male,Quarterly
+857,55,Male,Fortnightly
+858,43,Male,Every 3 Months
+859,19,Male,Weekly
+860,47,Male,Monthly
+861,26,Male,Monthly
+862,46,Male,Every 3 Months
+863,19,Male,Fortnightly
+864,49,Male,Fortnightly
+865,51,Male,Annually
+866,64,Male,Annually
+867,67,Male,Bi-Weekly
+868,37,Male,Fortnightly
+869,40,Male,Every 3 Months
+870,38,Male,Weekly
+871,66,Male,Bi-Weekly
+872,47,Male,Quarterly
+873,56,Male,Quarterly
+874,51,Male,Quarterly
+875,25,Male,Every 3 Months
+876,37,Male,Every 3 Months
+877,41,Male,Weekly
+878,64,Male,Every 3 Months
+879,23,Male,Weekly
+880,62,Male,Quarterly
+881,39,Male,Monthly
+882,52,Male,Annually
+883,50,Male,Every 3 Months
+884,28,Male,Monthly
+885,67,Male,Weekly
+886,41,Male,Every 3 Months
+887,19,Male,Monthly
+888,70,Male,Fortnightly
+889,49,Male,Annually
+890,59,Male,Weekly
+891,52,Male,Monthly
+892,20,Male,Every 3 Months
+893,31,Male,Monthly
+894,33,Male,Monthly
+895,44,Male,Quarterly
+896,40,Male,Quarterly
+897,69,Male,Fortnightly
+898,29,Male,Weekly
+899,54,Male,Every 3 Months
+900,65,Male,Annually
+901,54,Male,Quarterly
+902,60,Male,Monthly
+903,43,Male,Monthly
+904,44,Male,Quarterly
+905,69,Male,Every 3 Months
+906,46,Male,Annually
+907,41,Male,Bi-Weekly
+908,32,Male,Bi-Weekly
+909,26,Male,Every 3 Months
+910,61,Male,Weekly
+911,49,Male,Monthly
+912,53,Male,Quarterly
+913,24,Male,Monthly
+914,37,Male,Every 3 Months
+915,43,Male,Every 3 Months
+916,31,Male,Fortnightly
+917,49,Male,Monthly
+918,69,Male,Quarterly
+919,65,Male,Fortnightly
+920,41,Male,Bi-Weekly
+921,37,Male,Weekly
+922,70,Male,Weekly
+923,63,Male,Monthly
+924,55,Male,Weekly
+925,52,Male,Quarterly
+926,22,Male,Monthly
+927,54,Male,Bi-Weekly
+928,28,Male,Bi-Weekly
+929,67,Male,Every 3 Months
+930,59,Male,Fortnightly
+931,26,Male,Bi-Weekly
+932,24,Male,Fortnightly
+933,62,Male,Bi-Weekly
+934,70,Male,Monthly
+935,45,Male,Monthly
+936,58,Male,Fortnightly
+937,31,Male,Weekly
+938,32,Male,Quarterly
+939,36,Male,Fortnightly
+940,25,Male,Monthly
+941,48,Male,Every 3 Months
+942,39,Male,Every 3 Months
+943,26,Male,Bi-Weekly
+944,32,Male,Fortnightly
+945,54,Male,Bi-Weekly
+946,38,Male,Every 3 Months
+947,46,Male,Quarterly
+948,57,Male,Every 3 Months
+949,49,Male,Every 3 Months
+950,33,Male,Monthly
+951,54,Male,Quarterly
+952,47,Male,Monthly
+953,36,Male,Monthly
+954,68,Male,Quarterly
+955,60,Male,Every 3 Months
+956,55,Male,Monthly
+957,29,Male,Quarterly
+958,38,Male,Quarterly
+959,70,Male,Bi-Weekly
+960,36,Male,Fortnightly
+961,18,Male,Quarterly
+962,62,Male,Quarterly
+963,29,Male,Fortnightly
+964,21,Male,Weekly
+965,42,Male,Bi-Weekly
+966,43,Male,Annually
+967,58,Male,Annually
+968,27,Male,Weekly
+969,57,Male,Quarterly
+970,40,Male,Monthly
+971,45,Male,Monthly
+972,47,Male,Weekly
+973,61,Male,Weekly
+974,60,Male,Quarterly
+975,69,Male,Monthly
+976,58,Male,Weekly
+977,34,Male,Every 3 Months
+978,20,Male,Bi-Weekly
+979,56,Male,Weekly
+980,64,Male,Monthly
+981,56,Male,Every 3 Months
+982,27,Male,Quarterly
+983,35,Male,Monthly
+984,24,Male,Bi-Weekly
+985,26,Male,Bi-Weekly
+986,32,Male,Annually
+987,54,Male,Monthly
+988,62,Male,Weekly
+989,50,Male,Fortnightly
+990,70,Male,Monthly
+991,48,Male,Weekly
+992,20,Male,Bi-Weekly
+993,46,Male,Weekly
+994,51,Male,Weekly
+995,53,Male,Monthly
+996,44,Male,Weekly
+997,29,Male,Quarterly
+998,64,Male,Fortnightly
+999,51,Male,Bi-Weekly
+1000,50,Male,Monthly
+1001,30,Male,Weekly
+1002,61,Male,Fortnightly
+1003,55,Male,Bi-Weekly
+1004,56,Male,Bi-Weekly
+1005,33,Male,Annually
+1006,43,Male,Bi-Weekly
+1007,21,Male,Quarterly
+1008,58,Male,Annually
+1009,41,Male,Annually
+1010,39,Male,Annually
+1011,54,Male,Fortnightly
+1012,43,Male,Fortnightly
+1013,28,Male,Annually
+1014,59,Male,Bi-Weekly
+1015,28,Male,Fortnightly
+1016,68,Male,Weekly
+1017,20,Male,Every 3 Months
+1018,21,Male,Annually
+1019,50,Male,Weekly
+1020,32,Male,Bi-Weekly
+1021,24,Male,Annually
+1022,55,Male,Weekly
+1023,61,Male,Annually
+1024,61,Male,Every 3 Months
+1025,28,Male,Quarterly
+1026,60,Male,Annually
+1027,49,Male,Bi-Weekly
+1028,33,Male,Monthly
+1029,45,Male,Fortnightly
+1030,29,Male,Bi-Weekly
+1031,58,Male,Quarterly
+1032,22,Male,Quarterly
+1033,55,Male,Quarterly
+1034,19,Male,Quarterly
+1035,68,Male,Weekly
+1036,61,Male,Annually
+1037,68,Male,Monthly
+1038,52,Male,Quarterly
+1039,41,Male,Weekly
+1040,29,Male,Monthly
+1041,68,Male,Fortnightly
+1042,36,Male,Fortnightly
+1043,55,Male,Weekly
+1044,28,Male,Fortnightly
+1045,39,Male,Every 3 Months
+1046,54,Male,Bi-Weekly
+1047,40,Male,Annually
+1048,31,Male,Fortnightly
+1049,30,Male,Fortnightly
+1050,45,Male,Quarterly
+1051,48,Male,Monthly
+1052,45,Male,Annually
+1053,60,Male,Fortnightly
+1054,59,Male,Bi-Weekly
+1055,18,Male,Quarterly
+1056,70,Male,Annually
+1057,20,Male,Fortnightly
+1058,65,Male,Weekly
+1059,29,Male,Every 3 Months
+1060,22,Male,Monthly
+1061,27,Male,Every 3 Months
+1062,36,Male,Every 3 Months
+1063,59,Male,Every 3 Months
+1064,62,Male,Monthly
+1065,34,Male,Every 3 Months
+1066,59,Male,Every 3 Months
+1067,49,Male,Bi-Weekly
+1068,18,Male,Quarterly
+1069,55,Male,Weekly
+1070,38,Male,Every 3 Months
+1071,50,Male,Weekly
+1072,61,Male,Monthly
+1073,48,Male,Fortnightly
+1074,22,Male,Monthly
+1075,48,Male,Fortnightly
+1076,57,Male,Bi-Weekly
+1077,33,Male,Bi-Weekly
+1078,58,Male,Quarterly
+1079,37,Male,Fortnightly
+1080,18,Male,Monthly
+1081,65,Male,Every 3 Months
+1082,62,Male,Annually
+1083,54,Male,Quarterly
+1084,35,Male,Weekly
+1085,34,Male,Quarterly
+1086,25,Male,Fortnightly
+1087,53,Male,Bi-Weekly
+1088,45,Male,Monthly
+1089,49,Male,Weekly
+1090,40,Male,Bi-Weekly
+1091,38,Male,Fortnightly
+1092,44,Male,Fortnightly
+1093,68,Male,Quarterly
+1094,60,Male,Every 3 Months
+1095,25,Male,Quarterly
+1096,19,Male,Quarterly
+1097,57,Male,Annually
+1098,58,Male,Weekly
+1099,49,Male,Weekly
+1100,19,Male,Fortnightly
+1101,50,Male,Weekly
+1102,30,Male,Fortnightly
+1103,52,Male,Fortnightly
+1104,35,Male,Bi-Weekly
+1105,35,Male,Quarterly
+1106,33,Male,Every 3 Months
+1107,52,Male,Fortnightly
+1108,69,Male,Weekly
+1109,27,Male,Fortnightly
+1110,66,Male,Weekly
+1111,28,Male,Bi-Weekly
+1112,22,Male,Bi-Weekly
+1113,69,Male,Quarterly
+1114,28,Male,Bi-Weekly
+1115,55,Male,Every 3 Months
+1116,30,Male,Weekly
+1117,67,Male,Fortnightly
+1118,25,Male,Monthly
+1119,49,Male,Every 3 Months
+1120,34,Male,Weekly
+1121,22,Male,Monthly
+1122,63,Male,Quarterly
+1123,70,Male,Annually
+1124,36,Male,Monthly
+1125,42,Male,Quarterly
+1126,27,Male,Weekly
+1127,23,Male,Fortnightly
+1128,50,Male,Monthly
+1129,56,Male,Monthly
+1130,37,Male,Fortnightly
+1131,67,Male,Bi-Weekly
+1132,67,Male,Monthly
+1133,50,Male,Fortnightly
+1134,36,Male,Weekly
+1135,62,Male,Every 3 Months
+1136,65,Male,Quarterly
+1137,23,Male,Monthly
+1138,46,Male,Every 3 Months
+1139,18,Male,Fortnightly
+1140,58,Male,Bi-Weekly
+1141,31,Male,Every 3 Months
+1142,39,Male,Fortnightly
+1143,69,Male,Bi-Weekly
+1144,68,Male,Quarterly
+1145,41,Male,Fortnightly
+1146,31,Male,Every 3 Months
+1147,48,Male,Every 3 Months
+1148,59,Male,Annually
+1149,34,Male,Fortnightly
+1150,21,Male,Annually
+1151,29,Male,Bi-Weekly
+1152,41,Male,Weekly
+1153,62,Male,Every 3 Months
+1154,27,Male,Quarterly
+1155,49,Male,Bi-Weekly
+1156,67,Male,Quarterly
+1157,20,Male,Every 3 Months
+1158,37,Male,Quarterly
+1159,69,Male,Annually
+1160,66,Male,Every 3 Months
+1161,37,Male,Bi-Weekly
+1162,63,Male,Monthly
+1163,47,Male,Weekly
+1164,26,Male,Monthly
+1165,68,Male,Quarterly
+1166,51,Male,Every 3 Months
+1167,48,Male,Fortnightly
+1168,60,Male,Quarterly
+1169,68,Male,Fortnightly
+1170,25,Male,Annually
+1171,57,Male,Bi-Weekly
+1172,41,Male,Annually
+1173,59,Male,Bi-Weekly
+1174,44,Male,Bi-Weekly
+1175,42,Male,Bi-Weekly
+1176,35,Male,Quarterly
+1177,36,Male,Quarterly
+1178,54,Male,Monthly
+1179,37,Male,Annually
+1180,20,Male,Annually
+1181,23,Male,Monthly
+1182,61,Male,Quarterly
+1183,37,Male,Quarterly
+1184,23,Male,Weekly
+1185,63,Male,Annually
+1186,47,Male,Monthly
+1187,63,Male,Annually
+1188,56,Male,Every 3 Months
+1189,68,Male,Weekly
+1190,64,Male,Annually
+1191,62,Male,Weekly
+1192,34,Male,Quarterly
+1193,49,Male,Quarterly
+1194,40,Male,Fortnightly
+1195,50,Male,Fortnightly
+1196,25,Male,Monthly
+1197,30,Male,Bi-Weekly
+1198,54,Male,Annually
+1199,40,Male,Annually
+1200,49,Male,Weekly
+1201,27,Male,Weekly
+1202,27,Male,Fortnightly
+1203,48,Male,Every 3 Months
+1204,40,Male,Annually
+1205,67,Male,Every 3 Months
+1206,52,Male,Fortnightly
+1207,22,Male,Every 3 Months
+1208,62,Male,Every 3 Months
+1209,20,Male,Annually
+1210,41,Male,Monthly
+1211,34,Male,Quarterly
+1212,23,Male,Every 3 Months
+1213,32,Male,Weekly
+1214,68,Male,Every 3 Months
+1215,30,Male,Every 3 Months
+1216,66,Male,Every 3 Months
+1217,62,Male,Every 3 Months
+1218,50,Male,Every 3 Months
+1219,55,Male,Every 3 Months
+1220,19,Male,Bi-Weekly
+1221,67,Male,Quarterly
+1222,18,Male,Quarterly
+1223,58,Male,Annually
+1224,69,Male,Weekly
+1225,62,Male,Weekly
+1226,28,Male,Weekly
+1227,53,Male,Bi-Weekly
+1228,27,Male,Bi-Weekly
+1229,55,Male,Annually
+1230,34,Male,Annually
+1231,25,Male,Monthly
+1232,66,Male,Fortnightly
+1233,57,Male,Every 3 Months
+1234,46,Male,Every 3 Months
+1235,38,Male,Bi-Weekly
+1236,23,Male,Every 3 Months
+1237,42,Male,Every 3 Months
+1238,25,Male,Quarterly
+1239,55,Male,Fortnightly
+1240,62,Male,Every 3 Months
+1241,41,Male,Annually
+1242,58,Male,Weekly
+1243,56,Male,Quarterly
+1244,25,Male,Annually
+1245,70,Male,Monthly
+1246,42,Male,Weekly
+1247,27,Male,Monthly
+1248,65,Male,Bi-Weekly
+1249,62,Male,Annually
+1250,62,Male,Fortnightly
+1251,52,Male,Monthly
+1252,56,Male,Monthly
+1253,28,Male,Quarterly
+1254,39,Male,Annually
+1255,54,Male,Bi-Weekly
+1256,30,Male,Fortnightly
+1257,45,Male,Fortnightly
+1258,68,Male,Every 3 Months
+1259,47,Male,Every 3 Months
+1260,68,Male,Monthly
+1261,63,Male,Quarterly
+1262,20,Male,Fortnightly
+1263,29,Male,Monthly
+1264,41,Male,Bi-Weekly
+1265,52,Male,Bi-Weekly
+1266,32,Male,Weekly
+1267,20,Male,Every 3 Months
+1268,47,Male,Weekly
+1269,23,Male,Bi-Weekly
+1270,43,Male,Quarterly
+1271,67,Male,Annually
+1272,70,Male,Annually
+1273,35,Male,Monthly
+1274,41,Male,Every 3 Months
+1275,54,Male,Quarterly
+1276,55,Male,Monthly
+1277,51,Male,Weekly
+1278,19,Male,Quarterly
+1279,28,Male,Fortnightly
+1280,63,Male,Annually
+1281,30,Male,Every 3 Months
+1282,29,Male,Bi-Weekly
+1283,24,Male,Monthly
+1284,69,Male,Every 3 Months
+1285,65,Male,Fortnightly
+1286,64,Male,Fortnightly
+1287,40,Male,Fortnightly
+1288,24,Male,Monthly
+1289,66,Male,Bi-Weekly
+1290,35,Male,Weekly
+1291,67,Male,Annually
+1292,69,Male,Fortnightly
+1293,26,Male,Annually
+1294,23,Male,Annually
+1295,27,Male,Every 3 Months
+1296,30,Male,Weekly
+1297,48,Male,Bi-Weekly
+1298,44,Male,Annually
+1299,29,Male,Fortnightly
+1300,29,Male,Bi-Weekly
+1301,67,Male,Every 3 Months
+1302,42,Male,Weekly
+1303,23,Male,Monthly
+1304,34,Male,Annually
+1305,64,Male,Every 3 Months
+1306,31,Male,Every 3 Months
+1307,54,Male,Annually
+1308,23,Male,Annually
+1309,59,Male,Every 3 Months
+1310,32,Male,Quarterly
+1311,43,Male,Every 3 Months
+1312,32,Male,Annually
+1313,66,Male,Monthly
+1314,70,Male,Bi-Weekly
+1315,42,Male,Annually
+1316,56,Male,Quarterly
+1317,28,Male,Bi-Weekly
+1318,28,Male,Monthly
+1319,52,Male,Bi-Weekly
+1320,65,Male,Weekly
+1321,56,Male,Annually
+1322,59,Male,Every 3 Months
+1323,23,Male,Quarterly
+1324,58,Male,Every 3 Months
+1325,39,Male,Fortnightly
+1326,28,Male,Monthly
+1327,40,Male,Monthly
+1328,52,Male,Weekly
+1329,37,Male,Weekly
+1330,70,Male,Every 3 Months
+1331,30,Male,Bi-Weekly
+1332,38,Male,Bi-Weekly
+1333,66,Male,Quarterly
+1334,29,Male,Quarterly
+1335,46,Male,Monthly
+1336,56,Male,Weekly
+1337,23,Male,Fortnightly
+1338,37,Male,Bi-Weekly
+1339,56,Male,Fortnightly
+1340,36,Male,Every 3 Months
+1341,40,Male,Every 3 Months
+1342,26,Male,Quarterly
+1343,57,Male,Monthly
+1344,68,Male,Monthly
+1345,56,Male,Annually
+1346,40,Male,Weekly
+1347,44,Male,Bi-Weekly
+1348,44,Male,Monthly
+1349,19,Male,Fortnightly
+1350,21,Male,Bi-Weekly
+1351,31,Male,Every 3 Months
+1352,30,Male,Quarterly
+1353,65,Male,Bi-Weekly
+1354,39,Male,Every 3 Months
+1355,64,Male,Quarterly
+1356,59,Male,Bi-Weekly
+1357,49,Male,Annually
+1358,24,Male,Quarterly
+1359,19,Male,Every 3 Months
+1360,27,Male,Fortnightly
+1361,56,Male,Annually
+1362,49,Male,Monthly
+1363,41,Male,Weekly
+1364,36,Male,Quarterly
+1365,68,Male,Every 3 Months
+1366,28,Male,Fortnightly
+1367,45,Male,Fortnightly
+1368,60,Male,Quarterly
+1369,21,Male,Weekly
+1370,32,Male,Fortnightly
+1371,27,Male,Every 3 Months
+1372,40,Male,Monthly
+1373,64,Male,Bi-Weekly
+1374,18,Male,Quarterly
+1375,22,Male,Quarterly
+1376,42,Male,Annually
+1377,57,Male,Annually
+1378,33,Male,Monthly
+1379,37,Male,Weekly
+1380,21,Male,Bi-Weekly
+1381,51,Male,Fortnightly
+1382,30,Male,Quarterly
+1383,68,Male,Quarterly
+1384,36,Male,Monthly
+1385,46,Male,Weekly
+1386,41,Male,Bi-Weekly
+1387,68,Male,Quarterly
+1388,21,Male,Monthly
+1389,62,Male,Quarterly
+1390,59,Male,Fortnightly
+1391,25,Male,Weekly
+1392,53,Male,Annually
+1393,31,Male,Every 3 Months
+1394,46,Male,Fortnightly
+1395,26,Male,Weekly
+1396,47,Male,Bi-Weekly
+1397,37,Male,Monthly
+1398,55,Male,Annually
+1399,30,Male,Weekly
+1400,19,Male,Annually
+1401,36,Male,Every 3 Months
+1402,23,Male,Weekly
+1403,62,Male,Monthly
+1404,26,Male,Bi-Weekly
+1405,36,Male,Weekly
+1406,33,Male,Monthly
+1407,32,Male,Monthly
+1408,56,Male,Annually
+1409,58,Male,Weekly
+1410,34,Male,Fortnightly
+1411,61,Male,Annually
+1412,48,Male,Quarterly
+1413,25,Male,Annually
+1414,51,Male,Quarterly
+1415,29,Male,Bi-Weekly
+1416,54,Male,Every 3 Months
+1417,48,Male,Quarterly
+1418,62,Male,Fortnightly
+1419,18,Male,Every 3 Months
+1420,43,Male,Quarterly
+1421,22,Male,Every 3 Months
+1422,68,Male,Fortnightly
+1423,44,Male,Bi-Weekly
+1424,51,Male,Every 3 Months
+1425,66,Male,Every 3 Months
+1426,59,Male,Annually
+1427,60,Male,Every 3 Months
+1428,31,Male,Annually
+1429,20,Male,Quarterly
+1430,24,Male,Every 3 Months
+1431,48,Male,Fortnightly
+1432,39,Male,Quarterly
+1433,34,Male,Quarterly
+1434,70,Male,Weekly
+1435,59,Male,Bi-Weekly
+1436,45,Male,Weekly
+1437,35,Male,Fortnightly
+1438,69,Male,Annually
+1439,58,Male,Monthly
+1440,25,Male,Fortnightly
+1441,27,Male,Monthly
+1442,34,Male,Every 3 Months
+1443,53,Male,Annually
+1444,58,Male,Monthly
+1445,32,Male,Quarterly
+1446,64,Male,Annually
+1447,63,Male,Quarterly
+1448,23,Male,Monthly
+1449,64,Male,Every 3 Months
+1450,18,Male,Every 3 Months
+1451,25,Male,Quarterly
+1452,54,Male,Quarterly
+1453,60,Male,Quarterly
+1454,36,Male,Fortnightly
+1455,66,Male,Annually
+1456,60,Male,Every 3 Months
+1457,59,Male,Every 3 Months
+1458,58,Male,Fortnightly
+1459,35,Male,Weekly
+1460,20,Male,Fortnightly
+1461,70,Male,Bi-Weekly
+1462,54,Male,Quarterly
+1463,38,Male,Quarterly
+1464,54,Male,Monthly
+1465,33,Male,Quarterly
+1466,46,Male,Bi-Weekly
+1467,58,Male,Annually
+1468,30,Male,Fortnightly
+1469,42,Male,Fortnightly
+1470,28,Male,Every 3 Months
+1471,43,Male,Every 3 Months
+1472,31,Male,Every 3 Months
+1473,39,Male,Weekly
+1474,69,Male,Every 3 Months
+1475,31,Male,Monthly
+1476,44,Male,Monthly
+1477,39,Male,Monthly
+1478,24,Male,Every 3 Months
+1479,28,Male,Bi-Weekly
+1480,48,Male,Weekly
+1481,39,Male,Quarterly
+1482,64,Male,Quarterly
+1483,28,Male,Weekly
+1484,39,Male,Bi-Weekly
+1485,49,Male,Every 3 Months
+1486,22,Male,Fortnightly
+1487,25,Male,Every 3 Months
+1488,40,Male,Annually
+1489,23,Male,Weekly
+1490,24,Male,Quarterly
+1491,66,Male,Bi-Weekly
+1492,27,Male,Quarterly
+1493,62,Male,Quarterly
+1494,70,Male,Quarterly
+1495,43,Male,Fortnightly
+1496,45,Male,Weekly
+1497,63,Male,Bi-Weekly
+1498,69,Male,Every 3 Months
+1499,59,Male,Fortnightly
+1500,19,Male,Every 3 Months
+1501,63,Male,Monthly
+1502,37,Male,Every 3 Months
+1503,37,Male,Fortnightly
+1504,50,Male,Quarterly
+1505,60,Male,Monthly
+1506,46,Male,Monthly
+1507,35,Male,Quarterly
+1508,66,Male,Annually
+1509,35,Male,Every 3 Months
+1510,20,Male,Annually
+1511,55,Male,Annually
+1512,34,Male,Weekly
+1513,60,Male,Bi-Weekly
+1514,22,Male,Monthly
+1515,26,Male,Weekly
+1516,39,Male,Weekly
+1517,20,Male,Bi-Weekly
+1518,57,Male,Quarterly
+1519,68,Male,Fortnightly
+1520,50,Male,Weekly
+1521,21,Male,Quarterly
+1522,29,Male,Weekly
+1523,38,Male,Monthly
+1524,54,Male,Annually
+1525,22,Male,Bi-Weekly
+1526,29,Male,Fortnightly
+1527,41,Male,Monthly
+1528,26,Male,Fortnightly
+1529,69,Male,Bi-Weekly
+1530,20,Male,Bi-Weekly
+1531,59,Male,Quarterly
+1532,63,Male,Bi-Weekly
+1533,68,Male,Every 3 Months
+1534,50,Male,Quarterly
+1535,55,Male,Fortnightly
+1536,36,Male,Monthly
+1537,18,Male,Quarterly
+1538,68,Male,Annually
+1539,56,Male,Bi-Weekly
+1540,32,Male,Every 3 Months
+1541,28,Male,Monthly
+1542,24,Male,Bi-Weekly
+1543,59,Male,Weekly
+1544,56,Male,Annually
+1545,30,Male,Bi-Weekly
+1546,48,Male,Annually
+1547,60,Male,Annually
+1548,46,Male,Quarterly
+1549,69,Male,Weekly
+1550,19,Male,Every 3 Months
+1551,66,Male,Quarterly
+1552,64,Male,Monthly
+1553,54,Male,Monthly
+1554,27,Male,Quarterly
+1555,64,Male,Bi-Weekly
+1556,43,Male,Quarterly
+1557,43,Male,Quarterly
+1558,27,Male,Quarterly
+1559,35,Male,Every 3 Months
+1560,43,Male,Fortnightly
+1561,57,Male,Weekly
+1562,50,Male,Quarterly
+1563,37,Male,Bi-Weekly
+1564,68,Male,Weekly
+1565,22,Male,Every 3 Months
+1566,58,Male,Annually
+1567,48,Male,Bi-Weekly
+1568,30,Male,Monthly
+1569,51,Male,Monthly
+1570,20,Male,Weekly
+1571,30,Male,Every 3 Months
+1572,28,Male,Fortnightly
+1573,37,Male,Monthly
+1574,36,Male,Weekly
+1575,18,Male,Bi-Weekly
+1576,52,Male,Fortnightly
+1577,56,Male,Monthly
+1578,68,Male,Fortnightly
+1579,62,Male,Quarterly
+1580,35,Male,Monthly
+1581,65,Male,Annually
+1582,69,Male,Quarterly
+1583,28,Male,Monthly
+1584,37,Male,Annually
+1585,41,Male,Quarterly
+1586,37,Male,Fortnightly
+1587,25,Male,Weekly
+1588,41,Male,Fortnightly
+1589,48,Male,Monthly
+1590,42,Male,Weekly
+1591,54,Male,Annually
+1592,18,Male,Annually
+1593,56,Male,Every 3 Months
+1594,61,Male,Monthly
+1595,40,Male,Fortnightly
+1596,34,Male,Fortnightly
+1597,42,Male,Monthly
+1598,43,Male,Quarterly
+1599,47,Male,Bi-Weekly
+1600,48,Male,Bi-Weekly
+1601,20,Male,Weekly
+1602,65,Male,Monthly
+1603,54,Male,Fortnightly
+1604,23,Male,Bi-Weekly
+1605,18,Male,Every 3 Months
+1606,70,Male,Bi-Weekly
+1607,55,Male,Fortnightly
+1608,49,Male,Quarterly
+1609,26,Male,Bi-Weekly
+1610,33,Male,Monthly
+1611,20,Male,Annually
+1612,41,Male,Monthly
+1613,18,Male,Monthly
+1614,26,Male,Fortnightly
+1615,30,Male,Bi-Weekly
+1616,64,Male,Bi-Weekly
+1617,26,Male,Quarterly
+1618,43,Male,Fortnightly
+1619,63,Male,Quarterly
+1620,57,Male,Bi-Weekly
+1621,25,Male,Every 3 Months
+1622,68,Male,Fortnightly
+1623,31,Male,Every 3 Months
+1624,64,Male,Annually
+1625,38,Male,Every 3 Months
+1626,34,Male,Bi-Weekly
+1627,32,Male,Bi-Weekly
+1628,69,Male,Annually
+1629,45,Male,Monthly
+1630,35,Male,Quarterly
+1631,63,Male,Every 3 Months
+1632,65,Male,Fortnightly
+1633,35,Male,Every 3 Months
+1634,54,Male,Bi-Weekly
+1635,28,Male,Every 3 Months
+1636,68,Male,Annually
+1637,58,Male,Fortnightly
+1638,35,Male,Fortnightly
+1639,68,Male,Weekly
+1640,41,Male,Annually
+1641,65,Male,Weekly
+1642,50,Male,Every 3 Months
+1643,18,Male,Fortnightly
+1644,38,Male,Monthly
+1645,68,Male,Monthly
+1646,53,Male,Every 3 Months
+1647,58,Male,Every 3 Months
+1648,34,Male,Quarterly
+1649,36,Male,Monthly
+1650,58,Male,Quarterly
+1651,60,Male,Fortnightly
+1652,59,Male,Monthly
+1653,65,Male,Fortnightly
+1654,31,Male,Bi-Weekly
+1655,43,Male,Quarterly
+1656,37,Male,Monthly
+1657,21,Male,Every 3 Months
+1658,69,Male,Bi-Weekly
+1659,32,Male,Weekly
+1660,53,Male,Annually
+1661,59,Male,Monthly
+1662,64,Male,Quarterly
+1663,63,Male,Fortnightly
+1664,43,Male,Bi-Weekly
+1665,19,Male,Weekly
+1666,40,Male,Monthly
+1667,51,Male,Annually
+1668,51,Male,Every 3 Months
+1669,66,Male,Fortnightly
+1670,42,Male,Quarterly
+1671,22,Male,Weekly
+1672,31,Male,Weekly
+1673,18,Male,Quarterly
+1674,21,Male,Bi-Weekly
+1675,35,Male,Fortnightly
+1676,35,Male,Annually
+1677,27,Male,Weekly
+1678,65,Male,Weekly
+1679,41,Male,Fortnightly
+1680,60,Male,Bi-Weekly
+1681,61,Male,Annually
+1682,24,Male,Bi-Weekly
+1683,65,Male,Bi-Weekly
+1684,23,Male,Quarterly
+1685,30,Male,Weekly
+1686,33,Male,Bi-Weekly
+1687,22,Male,Annually
+1688,67,Male,Annually
+1689,28,Male,Fortnightly
+1690,32,Male,Monthly
+1691,40,Male,Annually
+1692,64,Male,Annually
+1693,56,Male,Bi-Weekly
+1694,63,Male,Fortnightly
+1695,20,Male,Fortnightly
+1696,54,Male,Fortnightly
+1697,31,Male,Bi-Weekly
+1698,36,Male,Every 3 Months
+1699,25,Male,Quarterly
+1700,20,Male,Annually
+1701,62,Male,Monthly
+1702,69,Male,Every 3 Months
+1703,54,Male,Weekly
+1704,39,Male,Annually
+1705,56,Male,Every 3 Months
+1706,39,Male,Bi-Weekly
+1707,37,Male,Fortnightly
+1708,25,Male,Bi-Weekly
+1709,35,Male,Quarterly
+1710,45,Male,Annually
+1711,19,Male,Quarterly
+1712,21,Male,Monthly
+1713,65,Male,Fortnightly
+1714,49,Male,Quarterly
+1715,30,Male,Monthly
+1716,23,Male,Bi-Weekly
+1717,69,Male,Every 3 Months
+1718,29,Male,Bi-Weekly
+1719,54,Male,Every 3 Months
+1720,45,Male,Quarterly
+1721,25,Male,Bi-Weekly
+1722,34,Male,Monthly
+1723,46,Male,Fortnightly
+1724,70,Male,Annually
+1725,42,Male,Weekly
+1726,45,Male,Quarterly
+1727,57,Male,Weekly
+1728,49,Male,Monthly
+1729,23,Male,Every 3 Months
+1730,47,Male,Fortnightly
+1731,23,Male,Weekly
+1732,21,Male,Monthly
+1733,45,Male,Every 3 Months
+1734,67,Male,Annually
+1735,31,Male,Quarterly
+1736,58,Male,Annually
+1737,57,Male,Quarterly
+1738,42,Male,Bi-Weekly
+1739,60,Male,Weekly
+1740,21,Male,Weekly
+1741,69,Male,Every 3 Months
+1742,41,Male,Monthly
+1743,51,Male,Every 3 Months
+1744,23,Male,Weekly
+1745,57,Male,Weekly
+1746,40,Male,Weekly
+1747,65,Male,Fortnightly
+1748,61,Male,Quarterly
+1749,34,Male,Annually
+1750,43,Male,Every 3 Months
+1751,31,Male,Every 3 Months
+1752,57,Male,Annually
+1753,34,Male,Quarterly
+1754,25,Male,Fortnightly
+1755,66,Male,Fortnightly
+1756,56,Male,Monthly
+1757,49,Male,Weekly
+1758,19,Male,Annually
+1759,27,Male,Bi-Weekly
+1760,68,Male,Weekly
+1761,20,Male,Weekly
+1762,21,Male,Weekly
+1763,36,Male,Fortnightly
+1764,37,Male,Annually
+1765,61,Male,Quarterly
+1766,68,Male,Quarterly
+1767,60,Male,Bi-Weekly
+1768,69,Male,Fortnightly
+1769,25,Male,Every 3 Months
+1770,32,Male,Monthly
+1771,53,Male,Weekly
+1772,46,Male,Annually
+1773,58,Male,Annually
+1774,21,Male,Annually
+1775,46,Male,Weekly
+1776,18,Male,Bi-Weekly
+1777,56,Male,Every 3 Months
+1778,18,Male,Fortnightly
+1779,49,Male,Bi-Weekly
+1780,29,Male,Weekly
+1781,67,Male,Weekly
+1782,31,Male,Quarterly
+1783,52,Male,Fortnightly
+1784,42,Male,Monthly
+1785,32,Male,Quarterly
+1786,47,Male,Monthly
+1787,45,Male,Monthly
+1788,20,Male,Quarterly
+1789,66,Male,Bi-Weekly
+1790,52,Male,Quarterly
+1791,50,Male,Bi-Weekly
+1792,62,Male,Annually
+1793,38,Male,Every 3 Months
+1794,65,Male,Every 3 Months
+1795,60,Male,Fortnightly
+1796,68,Male,Fortnightly
+1797,62,Male,Weekly
+1798,62,Male,Weekly
+1799,40,Male,Weekly
+1800,32,Male,Weekly
+1801,22,Male,Weekly
+1802,33,Male,Fortnightly
+1803,57,Male,Bi-Weekly
+1804,60,Male,Fortnightly
+1805,30,Male,Weekly
+1806,41,Male,Weekly
+1807,58,Male,Annually
+1808,34,Male,Fortnightly
+1809,67,Male,Monthly
+1810,58,Male,Fortnightly
+1811,41,Male,Bi-Weekly
+1812,42,Male,Annually
+1813,50,Male,Bi-Weekly
+1814,40,Male,Weekly
+1815,32,Male,Quarterly
+1816,51,Male,Every 3 Months
+1817,26,Male,Weekly
+1818,32,Male,Weekly
+1819,58,Male,Every 3 Months
+1820,51,Male,Quarterly
+1821,19,Male,Monthly
+1822,57,Male,Quarterly
+1823,66,Male,Annually
+1824,62,Male,Bi-Weekly
+1825,58,Male,Monthly
+1826,23,Male,Weekly
+1827,45,Male,Annually
+1828,20,Male,Weekly
+1829,33,Male,Every 3 Months
+1830,30,Male,Quarterly
+1831,50,Male,Annually
+1832,62,Male,Every 3 Months
+1833,69,Male,Monthly
+1834,34,Male,Fortnightly
+1835,49,Male,Fortnightly
+1836,65,Male,Quarterly
+1837,66,Male,Monthly
+1838,41,Male,Monthly
+1839,37,Male,Quarterly
+1840,32,Male,Annually
+1841,42,Male,Every 3 Months
+1842,31,Male,Every 3 Months
+1843,61,Male,Annually
+1844,36,Male,Monthly
+1845,60,Male,Annually
+1846,51,Male,Quarterly
+1847,68,Male,Quarterly
+1848,46,Male,Weekly
+1849,19,Male,Every 3 Months
+1850,30,Male,Monthly
+1851,51,Male,Weekly
+1852,28,Male,Fortnightly
+1853,41,Male,Weekly
+1854,29,Male,Fortnightly
+1855,25,Male,Annually
+1856,60,Male,Annually
+1857,63,Male,Bi-Weekly
+1858,51,Male,Monthly
+1859,22,Male,Annually
+1860,54,Male,Fortnightly
+1861,18,Male,Monthly
+1862,29,Male,Monthly
+1863,59,Male,Fortnightly
+1864,25,Male,Monthly
+1865,19,Male,Quarterly
+1866,56,Male,Monthly
+1867,31,Male,Fortnightly
+1868,45,Male,Quarterly
+1869,23,Male,Fortnightly
+1870,18,Male,Every 3 Months
+1871,43,Male,Fortnightly
+1872,56,Male,Every 3 Months
+1873,43,Male,Monthly
+1874,64,Male,Weekly
+1875,67,Male,Weekly
+1876,63,Male,Quarterly
+1877,54,Male,Quarterly
+1878,69,Male,Annually
+1879,34,Male,Monthly
+1880,56,Male,Bi-Weekly
+1881,34,Male,Monthly
+1882,58,Male,Bi-Weekly
+1883,44,Male,Quarterly
+1884,25,Male,Fortnightly
+1885,27,Male,Bi-Weekly
+1886,26,Male,Monthly
+1887,18,Male,Bi-Weekly
+1888,64,Male,Monthly
+1889,62,Male,Weekly
+1890,59,Male,Weekly
+1891,36,Male,Weekly
+1892,69,Male,Quarterly
+1893,39,Male,Weekly
+1894,28,Male,Fortnightly
+1895,42,Male,Bi-Weekly
+1896,31,Male,Monthly
+1897,57,Male,Monthly
+1898,53,Male,Fortnightly
+1899,59,Male,Monthly
+1900,32,Male,Weekly
+1901,65,Male,Quarterly
+1902,56,Male,Quarterly
+1903,31,Male,Monthly
+1904,59,Male,Weekly
+1905,22,Male,Monthly
+1906,47,Male,Fortnightly
+1907,23,Male,Fortnightly
+1908,69,Male,Every 3 Months
+1909,18,Male,Bi-Weekly
+1910,50,Male,Monthly
+1911,29,Male,Quarterly
+1912,65,Male,Bi-Weekly
+1913,29,Male,Bi-Weekly
+1914,49,Male,Annually
+1915,28,Male,Fortnightly
+1916,51,Male,Weekly
+1917,26,Male,Bi-Weekly
+1918,38,Male,Bi-Weekly
+1919,35,Male,Monthly
+1920,34,Male,Bi-Weekly
+1921,51,Male,Every 3 Months
+1922,47,Male,Annually
+1923,18,Male,Monthly
+1924,64,Male,Annually
+1925,30,Male,Quarterly
+1926,59,Male,Fortnightly
+1927,66,Male,Annually
+1928,40,Male,Every 3 Months
+1929,25,Male,Weekly
+1930,59,Male,Quarterly
+1931,66,Male,Weekly
+1932,54,Male,Every 3 Months
+1933,42,Male,Every 3 Months
+1934,48,Male,Annually
+1935,34,Male,Annually
+1936,19,Male,Fortnightly
+1937,70,Male,Every 3 Months
+1938,43,Male,Monthly
+1939,46,Male,Bi-Weekly
+1940,66,Male,Every 3 Months
+1941,50,Male,Fortnightly
+1942,55,Male,Quarterly
+1943,63,Male,Monthly
+1944,32,Male,Annually
+1945,30,Male,Every 3 Months
+1946,35,Male,Every 3 Months
+1947,59,Male,Quarterly
+1948,59,Male,Monthly
+1949,54,Male,Bi-Weekly
+1950,63,Male,Quarterly
+1951,43,Male,Every 3 Months
+1952,33,Male,Bi-Weekly
+1953,57,Male,Bi-Weekly
+1954,25,Male,Fortnightly
+1955,26,Male,Quarterly
+1956,50,Male,Monthly
+1957,70,Male,Fortnightly
+1958,68,Male,Bi-Weekly
+1959,39,Male,Quarterly
+1960,46,Male,Every 3 Months
+1961,57,Male,Annually
+1962,47,Male,Quarterly
+1963,40,Male,Fortnightly
+1964,52,Male,Weekly
+1965,40,Male,Monthly
+1966,67,Male,Quarterly
+1967,67,Male,Fortnightly
+1968,37,Male,Annually
+1969,67,Male,Weekly
+1970,64,Male,Fortnightly
+1971,28,Male,Bi-Weekly
+1972,54,Male,Monthly
+1973,54,Male,Every 3 Months
+1974,24,Male,Every 3 Months
+1975,27,Male,Fortnightly
+1976,53,Male,Quarterly
+1977,32,Male,Fortnightly
+1978,24,Male,Annually
+1979,45,Male,Quarterly
+1980,49,Male,Fortnightly
+1981,51,Male,Fortnightly
+1982,69,Male,Quarterly
+1983,41,Male,Monthly
+1984,59,Male,Quarterly
+1985,26,Male,Fortnightly
+1986,23,Male,Fortnightly
+1987,62,Male,Quarterly
+1988,69,Male,Quarterly
+1989,46,Male,Weekly
+1990,35,Male,Bi-Weekly
+1991,32,Male,Annually
+1992,46,Male,Every 3 Months
+1993,33,Male,Monthly
+1994,32,Male,Weekly
+1995,33,Male,Weekly
+1996,67,Male,Quarterly
+1997,67,Male,Every 3 Months
+1998,42,Male,Bi-Weekly
+1999,20,Male,Quarterly
+2000,39,Male,Monthly
+2001,26,Male,Bi-Weekly
+2002,51,Male,Fortnightly
+2003,31,Male,Every 3 Months
+2004,68,Male,Quarterly
+2005,44,Male,Bi-Weekly
+2006,18,Male,Fortnightly
+2007,58,Male,Annually
+2008,26,Male,Quarterly
+2009,57,Male,Every 3 Months
+2010,37,Male,Bi-Weekly
+2011,24,Male,Bi-Weekly
+2012,57,Male,Monthly
+2013,48,Male,Fortnightly
+2014,39,Male,Quarterly
+2015,51,Male,Bi-Weekly
+2016,57,Male,Fortnightly
+2017,53,Male,Fortnightly
+2018,70,Male,Every 3 Months
+2019,60,Male,Weekly
+2020,31,Male,Fortnightly
+2021,41,Male,Quarterly
+2022,62,Male,Quarterly
+2023,59,Male,Bi-Weekly
+2024,46,Male,Bi-Weekly
+2025,62,Male,Weekly
+2026,42,Male,Fortnightly
+2027,37,Male,Every 3 Months
+2028,50,Male,Every 3 Months
+2029,29,Male,Bi-Weekly
+2030,25,Male,Quarterly
+2031,66,Male,Monthly
+2032,21,Male,Monthly
+2033,46,Male,Annually
+2034,57,Male,Annually
+2035,61,Male,Monthly
+2036,53,Male,Weekly
+2037,37,Male,Weekly
+2038,39,Male,Bi-Weekly
+2039,53,Male,Fortnightly
+2040,35,Male,Bi-Weekly
+2041,69,Male,Quarterly
+2042,66,Male,Bi-Weekly
+2043,19,Male,Monthly
+2044,47,Male,Weekly
+2045,49,Male,Fortnightly
+2046,31,Male,Quarterly
+2047,39,Male,Every 3 Months
+2048,58,Male,Annually
+2049,45,Male,Quarterly
+2050,68,Male,Annually
+2051,35,Male,Annually
+2052,65,Male,Monthly
+2053,45,Male,Annually
+2054,19,Male,Fortnightly
+2055,65,Male,Annually
+2056,28,Male,Weekly
+2057,55,Male,Monthly
+2058,66,Male,Every 3 Months
+2059,29,Male,Quarterly
+2060,56,Male,Weekly
+2061,21,Male,Quarterly
+2062,32,Male,Annually
+2063,54,Male,Quarterly
+2064,61,Male,Monthly
+2065,31,Male,Monthly
+2066,27,Male,Bi-Weekly
+2067,64,Male,Fortnightly
+2068,60,Male,Fortnightly
+2069,70,Male,Monthly
+2070,36,Male,Quarterly
+2071,56,Male,Monthly
+2072,69,Male,Quarterly
+2073,39,Male,Weekly
+2074,38,Male,Every 3 Months
+2075,36,Male,Fortnightly
+2076,46,Male,Monthly
+2077,59,Male,Bi-Weekly
+2078,64,Male,Annually
+2079,49,Male,Weekly
+2080,32,Male,Quarterly
+2081,29,Male,Bi-Weekly
+2082,24,Male,Bi-Weekly
+2083,41,Male,Every 3 Months
+2084,41,Male,Fortnightly
+2085,32,Male,Quarterly
+2086,69,Male,Weekly
+2087,65,Male,Every 3 Months
+2088,54,Male,Weekly
+2089,39,Male,Annually
+2090,37,Male,Every 3 Months
+2091,51,Male,Monthly
+2092,26,Male,Quarterly
+2093,42,Male,Weekly
+2094,21,Male,Annually
+2095,53,Male,Annually
+2096,36,Male,Fortnightly
+2097,21,Male,Annually
+2098,33,Male,Weekly
+2099,49,Male,Quarterly
+2100,31,Male,Annually
+2101,68,Male,Fortnightly
+2102,49,Male,Bi-Weekly
+2103,23,Male,Monthly
+2104,30,Male,Weekly
+2105,53,Male,Weekly
+2106,65,Male,Bi-Weekly
+2107,60,Male,Every 3 Months
+2108,46,Male,Quarterly
+2109,54,Male,Quarterly
+2110,59,Male,Every 3 Months
+2111,52,Male,Every 3 Months
+2112,41,Male,Annually
+2113,43,Male,Fortnightly
+2114,63,Male,Every 3 Months
+2115,37,Male,Annually
+2116,44,Male,Bi-Weekly
+2117,67,Male,Bi-Weekly
+2118,27,Male,Annually
+2119,60,Male,Quarterly
+2120,58,Male,Bi-Weekly
+2121,53,Male,Quarterly
+2122,43,Male,Monthly
+2123,32,Male,Weekly
+2124,54,Male,Bi-Weekly
+2125,47,Male,Quarterly
+2126,57,Male,Quarterly
+2127,63,Male,Monthly
+2128,70,Male,Weekly
+2129,62,Male,Weekly
+2130,40,Male,Every 3 Months
+2131,25,Male,Annually
+2132,19,Male,Fortnightly
+2133,25,Male,Weekly
+2134,21,Male,Annually
+2135,55,Male,Fortnightly
+2136,34,Male,Every 3 Months
+2137,47,Male,Fortnightly
+2138,27,Male,Every 3 Months
+2139,67,Male,Quarterly
+2140,40,Male,Weekly
+2141,53,Male,Fortnightly
+2142,24,Male,Annually
+2143,47,Male,Quarterly
+2144,53,Male,Bi-Weekly
+2145,47,Male,Quarterly
+2146,38,Male,Annually
+2147,48,Male,Every 3 Months
+2148,47,Male,Fortnightly
+2149,19,Male,Bi-Weekly
+2150,38,Male,Weekly
+2151,57,Male,Weekly
+2152,70,Male,Monthly
+2153,38,Male,Bi-Weekly
+2154,35,Male,Annually
+2155,46,Male,Every 3 Months
+2156,32,Male,Monthly
+2157,38,Male,Bi-Weekly
+2158,41,Male,Fortnightly
+2159,19,Male,Fortnightly
+2160,18,Male,Annually
+2161,45,Male,Annually
+2162,23,Male,Fortnightly
+2163,60,Male,Weekly
+2164,52,Male,Monthly
+2165,42,Male,Bi-Weekly
+2166,29,Male,Every 3 Months
+2167,31,Male,Bi-Weekly
+2168,30,Male,Fortnightly
+2169,23,Male,Quarterly
+2170,31,Male,Bi-Weekly
+2171,40,Male,Every 3 Months
+2172,39,Male,Fortnightly
+2173,28,Male,Fortnightly
+2174,23,Male,Quarterly
+2175,42,Male,Annually
+2176,68,Male,Fortnightly
+2177,24,Male,Quarterly
+2178,24,Male,Bi-Weekly
+2179,21,Male,Annually
+2180,49,Male,Monthly
+2181,41,Male,Quarterly
+2182,22,Male,Bi-Weekly
+2183,42,Male,Bi-Weekly
+2184,30,Male,Monthly
+2185,38,Male,Every 3 Months
+2186,40,Male,Every 3 Months
+2187,55,Male,Every 3 Months
+2188,37,Male,Annually
+2189,41,Male,Weekly
+2190,38,Male,Bi-Weekly
+2191,42,Male,Annually
+2192,26,Male,Bi-Weekly
+2193,41,Male,Monthly
+2194,27,Male,Monthly
+2195,61,Male,Quarterly
+2196,58,Male,Monthly
+2197,25,Male,Weekly
+2198,33,Male,Monthly
+2199,57,Male,Monthly
+2200,39,Male,Monthly
+2201,60,Male,Every 3 Months
+2202,39,Male,Annually
+2203,42,Male,Weekly
+2204,53,Male,Quarterly
+2205,20,Male,Monthly
+2206,46,Male,Weekly
+2207,46,Male,Fortnightly
+2208,69,Male,Annually
+2209,28,Male,Monthly
+2210,42,Male,Quarterly
+2211,30,Male,Fortnightly
+2212,50,Male,Every 3 Months
+2213,59,Male,Quarterly
+2214,54,Male,Quarterly
+2215,50,Male,Weekly
+2216,25,Male,Fortnightly
+2217,41,Male,Bi-Weekly
+2218,35,Male,Fortnightly
+2219,67,Male,Quarterly
+2220,33,Male,Fortnightly
+2221,19,Male,Annually
+2222,25,Male,Annually
+2223,32,Male,Weekly
+2224,30,Male,Quarterly
+2225,18,Male,Quarterly
+2226,38,Male,Annually
+2227,22,Male,Annually
+2228,40,Male,Fortnightly
+2229,54,Male,Weekly
+2230,70,Male,Monthly
+2231,52,Male,Fortnightly
+2232,34,Male,Weekly
+2233,65,Male,Fortnightly
+2234,38,Male,Monthly
+2235,35,Male,Weekly
+2236,40,Male,Annually
+2237,23,Male,Fortnightly
+2238,45,Male,Every 3 Months
+2239,40,Male,Weekly
+2240,42,Male,Every 3 Months
+2241,57,Male,Every 3 Months
+2242,18,Male,Bi-Weekly
+2243,18,Male,Bi-Weekly
+2244,56,Male,Annually
+2245,35,Male,Annually
+2246,49,Male,Fortnightly
+2247,49,Male,Every 3 Months
+2248,34,Male,Annually
+2249,63,Male,Fortnightly
+2250,42,Male,Weekly
+2251,41,Male,Weekly
+2252,26,Male,Monthly
+2253,48,Male,Annually
+2254,62,Male,Monthly
+2255,24,Male,Every 3 Months
+2256,48,Male,Quarterly
+2257,31,Male,Quarterly
+2258,41,Male,Annually
+2259,24,Male,Every 3 Months
+2260,60,Male,Annually
+2261,38,Male,Quarterly
+2262,58,Male,Fortnightly
+2263,53,Male,Monthly
+2264,44,Male,Quarterly
+2265,51,Male,Monthly
+2266,36,Male,Quarterly
+2267,20,Male,Weekly
+2268,32,Male,Weekly
+2269,66,Male,Monthly
+2270,49,Male,Annually
+2271,27,Male,Weekly
+2272,29,Male,Quarterly
+2273,29,Male,Monthly
+2274,55,Male,Bi-Weekly
+2275,57,Male,Fortnightly
+2276,29,Male,Weekly
+2277,31,Male,Weekly
+2278,25,Male,Quarterly
+2279,61,Male,Every 3 Months
+2280,53,Male,Quarterly
+2281,22,Male,Fortnightly
+2282,28,Male,Annually
+2283,18,Male,Annually
+2284,44,Male,Fortnightly
+2285,32,Male,Annually
+2286,34,Male,Every 3 Months
+2287,67,Male,Quarterly
+2288,66,Male,Annually
+2289,28,Male,Weekly
+2290,70,Male,Weekly
+2291,37,Male,Quarterly
+2292,28,Male,Quarterly
+2293,43,Male,Monthly
+2294,37,Male,Every 3 Months
+2295,54,Male,Annually
+2296,50,Male,Quarterly
+2297,46,Male,Every 3 Months
+2298,60,Male,Quarterly
+2299,40,Male,Every 3 Months
+2300,64,Male,Every 3 Months
+2301,18,Male,Monthly
+2302,37,Male,Annually
+2303,36,Male,Monthly
+2304,51,Male,Fortnightly
+2305,26,Male,Fortnightly
+2306,68,Male,Weekly
+2307,27,Male,Bi-Weekly
+2308,28,Male,Annually
+2309,49,Male,Quarterly
+2310,70,Male,Quarterly
+2311,30,Male,Monthly
+2312,27,Male,Every 3 Months
+2313,19,Male,Every 3 Months
+2314,64,Male,Fortnightly
+2315,42,Male,Every 3 Months
+2316,69,Male,Quarterly
+2317,28,Male,Annually
+2318,47,Male,Monthly
+2319,69,Male,Annually
+2320,56,Male,Monthly
+2321,28,Male,Every 3 Months
+2322,50,Male,Fortnightly
+2323,39,Male,Fortnightly
+2324,35,Male,Monthly
+2325,59,Male,Annually
+2326,44,Male,Weekly
+2327,66,Male,Annually
+2328,20,Male,Bi-Weekly
+2329,45,Male,Bi-Weekly
+2330,49,Male,Annually
+2331,60,Male,Every 3 Months
+2332,61,Male,Bi-Weekly
+2333,36,Male,Monthly
+2334,33,Male,Every 3 Months
+2335,49,Male,Monthly
+2336,31,Male,Fortnightly
+2337,19,Male,Weekly
+2338,39,Male,Annually
+2339,66,Male,Quarterly
+2340,25,Male,Quarterly
+2341,63,Male,Fortnightly
+2342,56,Male,Every 3 Months
+2343,20,Male,Fortnightly
+2344,58,Male,Monthly
+2345,34,Male,Bi-Weekly
+2346,28,Male,Every 3 Months
+2347,22,Male,Fortnightly
+2348,37,Male,Every 3 Months
+2349,54,Male,Every 3 Months
+2350,65,Male,Every 3 Months
+2351,57,Male,Annually
+2352,38,Male,Bi-Weekly
+2353,70,Male,Quarterly
+2354,56,Male,Every 3 Months
+2355,56,Male,Monthly
+2356,22,Male,Monthly
+2357,57,Male,Quarterly
+2358,53,Male,Bi-Weekly
+2359,53,Male,Quarterly
+2360,19,Male,Every 3 Months
+2361,49,Male,Every 3 Months
+2362,44,Male,Every 3 Months
+2363,27,Male,Monthly
+2364,60,Male,Bi-Weekly
+2365,62,Male,Quarterly
+2366,52,Male,Monthly
+2367,30,Male,Fortnightly
+2368,66,Male,Bi-Weekly
+2369,29,Male,Every 3 Months
+2370,24,Male,Monthly
+2371,51,Male,Weekly
+2372,67,Male,Annually
+2373,50,Male,Fortnightly
+2374,37,Male,Every 3 Months
+2375,69,Male,Monthly
+2376,60,Male,Quarterly
+2377,21,Male,Weekly
+2378,44,Male,Annually
+2379,26,Male,Bi-Weekly
+2380,40,Male,Monthly
+2381,41,Male,Fortnightly
+2382,62,Male,Annually
+2383,39,Male,Weekly
+2384,53,Male,Annually
+2385,24,Male,Quarterly
+2386,41,Male,Weekly
+2387,19,Male,Monthly
+2388,36,Male,Monthly
+2389,21,Male,Annually
+2390,25,Male,Every 3 Months
+2391,65,Male,Fortnightly
+2392,42,Male,Quarterly
+2393,40,Male,Annually
+2394,58,Male,Every 3 Months
+2395,40,Male,Fortnightly
+2396,62,Male,Bi-Weekly
+2397,38,Male,Weekly
+2398,37,Male,Monthly
+2399,65,Male,Fortnightly
+2400,55,Male,Monthly
+2401,43,Male,Bi-Weekly
+2402,43,Male,Bi-Weekly
+2403,45,Male,Weekly
+2404,64,Male,Weekly
+2405,28,Male,Bi-Weekly
+2406,69,Male,Quarterly
+2407,54,Male,Weekly
+2408,52,Male,Bi-Weekly
+2409,23,Male,Every 3 Months
+2410,26,Male,Every 3 Months
+2411,48,Male,Monthly
+2412,49,Male,Every 3 Months
+2413,53,Male,Bi-Weekly
+2414,69,Male,Weekly
+2415,26,Male,Bi-Weekly
+2416,21,Male,Weekly
+2417,59,Male,Every 3 Months
+2418,21,Male,Fortnightly
+2419,22,Male,Every 3 Months
+2420,26,Male,Every 3 Months
+2421,41,Male,Annually
+2422,37,Male,Every 3 Months
+2423,30,Male,Weekly
+2424,49,Male,Every 3 Months
+2425,49,Male,Bi-Weekly
+2426,58,Male,Quarterly
+2427,70,Male,Every 3 Months
+2428,27,Male,Quarterly
+2429,65,Male,Annually
+2430,57,Male,Fortnightly
+2431,20,Male,Quarterly
+2432,34,Male,Every 3 Months
+2433,59,Male,Monthly
+2434,54,Male,Bi-Weekly
+2435,36,Male,Monthly
+2436,21,Male,Bi-Weekly
+2437,52,Male,Quarterly
+2438,43,Male,Weekly
+2439,32,Male,Weekly
+2440,55,Male,Annually
+2441,31,Male,Annually
+2442,45,Male,Monthly
+2443,53,Male,Bi-Weekly
+2444,24,Male,Bi-Weekly
+2445,47,Male,Bi-Weekly
+2446,63,Male,Weekly
+2447,38,Male,Monthly
+2448,59,Male,Fortnightly
+2449,54,Male,Bi-Weekly
+2450,26,Male,Fortnightly
+2451,68,Male,Quarterly
+2452,41,Male,Monthly
+2453,68,Male,Every 3 Months
+2454,21,Male,Annually
+2455,32,Male,Annually
+2456,20,Male,Every 3 Months
+2457,59,Male,Monthly
+2458,53,Male,Quarterly
+2459,66,Male,Weekly
+2460,47,Male,Weekly
+2461,58,Male,Annually
+2462,28,Male,Weekly
+2463,68,Male,Bi-Weekly
+2464,60,Male,Bi-Weekly
+2465,47,Male,Bi-Weekly
+2466,18,Male,Weekly
+2467,32,Male,Annually
+2468,27,Male,Annually
+2469,65,Male,Weekly
+2470,68,Male,Annually
+2471,55,Male,Fortnightly
+2472,30,Male,Annually
+2473,24,Male,Annually
+2474,57,Male,Quarterly
+2475,23,Male,Quarterly
+2476,69,Male,Monthly
+2477,60,Male,Monthly
+2478,25,Male,Weekly
+2479,18,Male,Every 3 Months
+2480,37,Male,Every 3 Months
+2481,61,Male,Fortnightly
+2482,41,Male,Weekly
+2483,69,Male,Every 3 Months
+2484,32,Male,Monthly
+2485,60,Male,Every 3 Months
+2486,43,Male,Annually
+2487,61,Male,Fortnightly
+2488,57,Male,Bi-Weekly
+2489,56,Male,Monthly
+2490,66,Male,Quarterly
+2491,52,Male,Every 3 Months
+2492,63,Male,Monthly
+2493,50,Male,Bi-Weekly
+2494,21,Male,Every 3 Months
+2495,42,Male,Annually
+2496,40,Male,Every 3 Months
+2497,67,Male,Weekly
+2498,35,Male,Annually
+2499,18,Male,Fortnightly
+2500,52,Male,Quarterly
+2501,59,Male,Bi-Weekly
+2502,49,Male,Bi-Weekly
+2503,46,Male,Every 3 Months
+2504,69,Male,Bi-Weekly
+2505,56,Male,Bi-Weekly
+2506,27,Male,Quarterly
+2507,57,Male,Annually
+2508,58,Male,Every 3 Months
+2509,23,Male,Bi-Weekly
+2510,19,Male,Quarterly
+2511,40,Male,Weekly
+2512,54,Male,Quarterly
+2513,50,Male,Monthly
+2514,69,Male,Annually
+2515,42,Male,Bi-Weekly
+2516,37,Male,Monthly
+2517,46,Male,Quarterly
+2518,64,Male,Annually
+2519,20,Male,Annually
+2520,40,Male,Quarterly
+2521,64,Male,Every 3 Months
+2522,29,Male,Every 3 Months
+2523,20,Male,Weekly
+2524,43,Male,Annually
+2525,60,Male,Quarterly
+2526,39,Male,Weekly
+2527,47,Male,Bi-Weekly
+2528,19,Male,Every 3 Months
+2529,52,Male,Monthly
+2530,34,Male,Monthly
+2531,25,Male,Weekly
+2532,43,Male,Every 3 Months
+2533,55,Male,Weekly
+2534,66,Male,Bi-Weekly
+2535,41,Male,Weekly
+2536,47,Male,Fortnightly
+2537,51,Male,Every 3 Months
+2538,44,Male,Fortnightly
+2539,18,Male,Bi-Weekly
+2540,33,Male,Bi-Weekly
+2541,24,Male,Quarterly
+2542,33,Male,Every 3 Months
+2543,61,Male,Annually
+2544,27,Male,Bi-Weekly
+2545,46,Male,Quarterly
+2546,38,Male,Annually
+2547,63,Male,Quarterly
+2548,47,Male,Weekly
+2549,42,Male,Monthly
+2550,41,Male,Every 3 Months
+2551,53,Male,Fortnightly
+2552,29,Male,Annually
+2553,61,Male,Annually
+2554,69,Male,Every 3 Months
+2555,51,Male,Bi-Weekly
+2556,24,Male,Weekly
+2557,24,Male,Quarterly
+2558,70,Male,Fortnightly
+2559,49,Male,Fortnightly
+2560,48,Male,Every 3 Months
+2561,58,Male,Bi-Weekly
+2562,32,Male,Quarterly
+2563,57,Male,Fortnightly
+2564,69,Male,Every 3 Months
+2565,42,Male,Weekly
+2566,30,Male,Quarterly
+2567,35,Male,Quarterly
+2568,19,Male,Fortnightly
+2569,52,Male,Fortnightly
+2570,42,Male,Bi-Weekly
+2571,36,Male,Fortnightly
+2572,45,Male,Fortnightly
+2573,54,Male,Quarterly
+2574,54,Male,Annually
+2575,27,Male,Fortnightly
+2576,53,Male,Annually
+2577,20,Male,Quarterly
+2578,52,Male,Monthly
+2579,54,Male,Quarterly
+2580,65,Male,Weekly
+2581,43,Male,Quarterly
+2582,57,Male,Monthly
+2583,19,Male,Every 3 Months
+2584,69,Male,Weekly
+2585,26,Male,Bi-Weekly
+2586,57,Male,Weekly
+2587,20,Male,Every 3 Months
+2588,55,Male,Every 3 Months
+2589,44,Male,Bi-Weekly
+2590,52,Male,Annually
+2591,57,Male,Annually
+2592,40,Male,Quarterly
+2593,23,Male,Quarterly
+2594,36,Male,Every 3 Months
+2595,59,Male,Every 3 Months
+2596,29,Male,Bi-Weekly
+2597,63,Male,Monthly
+2598,60,Male,Bi-Weekly
+2599,64,Male,Annually
+2600,63,Male,Monthly
+2601,21,Male,Bi-Weekly
+2602,61,Male,Monthly
+2603,65,Male,Quarterly
+2604,69,Male,Annually
+2605,47,Male,Weekly
+2606,41,Male,Fortnightly
+2607,68,Male,Bi-Weekly
+2608,41,Male,Every 3 Months
+2609,42,Male,Fortnightly
+2610,66,Male,Bi-Weekly
+2611,66,Male,Quarterly
+2612,33,Male,Fortnightly
+2613,55,Male,Quarterly
+2614,58,Male,Monthly
+2615,18,Male,Fortnightly
+2616,49,Male,Quarterly
+2617,61,Male,Annually
+2618,31,Male,Annually
+2619,70,Male,Monthly
+2620,68,Male,Weekly
+2621,27,Male,Annually
+2622,48,Male,Annually
+2623,63,Male,Annually
+2624,49,Male,Annually
+2625,19,Male,Annually
+2626,30,Male,Weekly
+2627,50,Male,Every 3 Months
+2628,66,Male,Quarterly
+2629,25,Male,Bi-Weekly
+2630,61,Male,Annually
+2631,29,Male,Quarterly
+2632,53,Male,Weekly
+2633,24,Male,Annually
+2634,51,Male,Fortnightly
+2635,26,Male,Every 3 Months
+2636,59,Male,Fortnightly
+2637,41,Male,Annually
+2638,20,Male,Annually
+2639,22,Male,Annually
+2640,18,Male,Quarterly
+2641,30,Male,Bi-Weekly
+2642,25,Male,Every 3 Months
+2643,39,Male,Annually
+2644,49,Male,Monthly
+2645,25,Male,Every 3 Months
+2646,23,Male,Bi-Weekly
+2647,33,Male,Every 3 Months
+2648,60,Male,Annually
+2649,51,Male,Bi-Weekly
+2650,23,Male,Fortnightly
+2651,20,Male,Every 3 Months
+2652,51,Male,Quarterly
+2653,23,Female,Monthly
+2654,67,Female,Every 3 Months
+2655,23,Female,Annually
+2656,26,Female,Fortnightly
+2657,52,Female,Fortnightly
+2658,52,Female,Fortnightly
+2659,52,Female,Monthly
+2660,35,Female,Fortnightly
+2661,24,Female,Annually
+2662,43,Female,Annually
+2663,25,Female,Fortnightly
+2664,46,Female,Annually
+2665,22,Female,Weekly
+2666,70,Female,Weekly
+2667,49,Female,Fortnightly
+2668,48,Female,Fortnightly
+2669,59,Female,Quarterly
+2670,39,Female,Weekly
+2671,30,Female,Bi-Weekly
+2672,37,Female,Every 3 Months
+2673,56,Female,Annually
+2674,67,Female,Monthly
+2675,40,Female,Every 3 Months
+2676,24,Female,Bi-Weekly
+2677,43,Female,Fortnightly
+2678,45,Female,Every 3 Months
+2679,33,Female,Bi-Weekly
+2680,53,Female,Quarterly
+2681,44,Female,Annually
+2682,23,Female,Monthly
+2683,59,Female,Every 3 Months
+2684,68,Female,Fortnightly
+2685,46,Female,Bi-Weekly
+2686,56,Female,Quarterly
+2687,40,Female,Fortnightly
+2688,61,Female,Bi-Weekly
+2689,53,Female,Every 3 Months
+2690,29,Female,Quarterly
+2691,44,Female,Weekly
+2692,43,Female,Monthly
+2693,40,Female,Every 3 Months
+2694,55,Female,Quarterly
+2695,66,Female,Every 3 Months
+2696,50,Female,Bi-Weekly
+2697,57,Female,Monthly
+2698,42,Female,Quarterly
+2699,55,Female,Quarterly
+2700,25,Female,Annually
+2701,22,Female,Weekly
+2702,49,Female,Fortnightly
+2703,70,Female,Fortnightly
+2704,56,Female,Weekly
+2705,52,Female,Weekly
+2706,65,Female,Bi-Weekly
+2707,24,Female,Quarterly
+2708,32,Female,Weekly
+2709,57,Female,Weekly
+2710,35,Female,Bi-Weekly
+2711,69,Female,Fortnightly
+2712,30,Female,Monthly
+2713,37,Female,Quarterly
+2714,19,Female,Annually
+2715,53,Female,Bi-Weekly
+2716,25,Female,Fortnightly
+2717,47,Female,Weekly
+2718,18,Female,Every 3 Months
+2719,22,Female,Bi-Weekly
+2720,69,Female,Monthly
+2721,55,Female,Quarterly
+2722,19,Female,Fortnightly
+2723,23,Female,Fortnightly
+2724,54,Female,Every 3 Months
+2725,52,Female,Fortnightly
+2726,64,Female,Annually
+2727,33,Female,Bi-Weekly
+2728,40,Female,Fortnightly
+2729,26,Female,Weekly
+2730,31,Female,Monthly
+2731,23,Female,Annually
+2732,52,Female,Quarterly
+2733,21,Female,Every 3 Months
+2734,31,Female,Annually
+2735,63,Female,Bi-Weekly
+2736,46,Female,Bi-Weekly
+2737,44,Female,Annually
+2738,57,Female,Every 3 Months
+2739,50,Female,Every 3 Months
+2740,33,Female,Every 3 Months
+2741,19,Female,Fortnightly
+2742,68,Female,Monthly
+2743,27,Female,Annually
+2744,61,Female,Quarterly
+2745,38,Female,Monthly
+2746,28,Female,Bi-Weekly
+2747,39,Female,Every 3 Months
+2748,18,Female,Every 3 Months
+2749,24,Female,Annually
+2750,64,Female,Annually
+2751,51,Female,Every 3 Months
+2752,27,Female,Monthly
+2753,48,Female,Bi-Weekly
+2754,69,Female,Quarterly
+2755,59,Female,Bi-Weekly
+2756,59,Female,Annually
+2757,42,Female,Monthly
+2758,39,Female,Monthly
+2759,32,Female,Bi-Weekly
+2760,68,Female,Every 3 Months
+2761,41,Female,Bi-Weekly
+2762,31,Female,Every 3 Months
+2763,58,Female,Every 3 Months
+2764,28,Female,Quarterly
+2765,63,Female,Weekly
+2766,64,Female,Quarterly
+2767,66,Female,Monthly
+2768,31,Female,Monthly
+2769,55,Female,Bi-Weekly
+2770,32,Female,Weekly
+2771,50,Female,Quarterly
+2772,58,Female,Fortnightly
+2773,18,Female,Every 3 Months
+2774,39,Female,Quarterly
+2775,56,Female,Quarterly
+2776,37,Female,Weekly
+2777,46,Female,Annually
+2778,52,Female,Every 3 Months
+2779,70,Female,Bi-Weekly
+2780,61,Female,Fortnightly
+2781,33,Female,Fortnightly
+2782,65,Female,Weekly
+2783,41,Female,Annually
+2784,19,Female,Quarterly
+2785,33,Female,Every 3 Months
+2786,53,Female,Monthly
+2787,54,Female,Every 3 Months
+2788,36,Female,Fortnightly
+2789,56,Female,Annually
+2790,28,Female,Bi-Weekly
+2791,34,Female,Annually
+2792,43,Female,Fortnightly
+2793,54,Female,Weekly
+2794,37,Female,Bi-Weekly
+2795,33,Female,Fortnightly
+2796,33,Female,Annually
+2797,55,Female,Annually
+2798,63,Female,Every 3 Months
+2799,52,Female,Weekly
+2800,23,Female,Every 3 Months
+2801,70,Female,Bi-Weekly
+2802,64,Female,Annually
+2803,22,Female,Fortnightly
+2804,46,Female,Monthly
+2805,65,Female,Every 3 Months
+2806,18,Female,Quarterly
+2807,45,Female,Annually
+2808,56,Female,Fortnightly
+2809,49,Female,Every 3 Months
+2810,66,Female,Quarterly
+2811,27,Female,Fortnightly
+2812,69,Female,Quarterly
+2813,66,Female,Every 3 Months
+2814,45,Female,Quarterly
+2815,31,Female,Monthly
+2816,33,Female,Every 3 Months
+2817,43,Female,Weekly
+2818,25,Female,Weekly
+2819,46,Female,Annually
+2820,67,Female,Monthly
+2821,26,Female,Bi-Weekly
+2822,35,Female,Monthly
+2823,61,Female,Quarterly
+2824,26,Female,Bi-Weekly
+2825,39,Female,Quarterly
+2826,69,Female,Annually
+2827,32,Female,Annually
+2828,20,Female,Bi-Weekly
+2829,25,Female,Quarterly
+2830,56,Female,Weekly
+2831,63,Female,Every 3 Months
+2832,34,Female,Weekly
+2833,29,Female,Quarterly
+2834,43,Female,Monthly
+2835,39,Female,Weekly
+2836,33,Female,Annually
+2837,51,Female,Bi-Weekly
+2838,65,Female,Weekly
+2839,51,Female,Weekly
+2840,70,Female,Monthly
+2841,40,Female,Annually
+2842,19,Female,Weekly
+2843,28,Female,Quarterly
+2844,51,Female,Weekly
+2845,32,Female,Annually
+2846,26,Female,Every 3 Months
+2847,50,Female,Bi-Weekly
+2848,68,Female,Every 3 Months
+2849,33,Female,Quarterly
+2850,56,Female,Bi-Weekly
+2851,57,Female,Annually
+2852,58,Female,Monthly
+2853,40,Female,Weekly
+2854,37,Female,Weekly
+2855,36,Female,Monthly
+2856,29,Female,Quarterly
+2857,65,Female,Monthly
+2858,44,Female,Monthly
+2859,34,Female,Monthly
+2860,31,Female,Annually
+2861,28,Female,Weekly
+2862,66,Female,Monthly
+2863,68,Female,Every 3 Months
+2864,37,Female,Monthly
+2865,58,Female,Weekly
+2866,28,Female,Fortnightly
+2867,54,Female,Annually
+2868,21,Female,Fortnightly
+2869,45,Female,Every 3 Months
+2870,57,Female,Weekly
+2871,47,Female,Every 3 Months
+2872,46,Female,Bi-Weekly
+2873,63,Female,Annually
+2874,44,Female,Monthly
+2875,36,Female,Annually
+2876,24,Female,Weekly
+2877,65,Female,Fortnightly
+2878,32,Female,Monthly
+2879,63,Female,Annually
+2880,62,Female,Annually
+2881,19,Female,Quarterly
+2882,38,Female,Annually
+2883,59,Female,Bi-Weekly
+2884,22,Female,Weekly
+2885,55,Female,Every 3 Months
+2886,29,Female,Bi-Weekly
+2887,42,Female,Weekly
+2888,23,Female,Bi-Weekly
+2889,70,Female,Quarterly
+2890,64,Female,Annually
+2891,39,Female,Monthly
+2892,47,Female,Monthly
+2893,22,Female,Monthly
+2894,69,Female,Every 3 Months
+2895,35,Female,Annually
+2896,56,Female,Monthly
+2897,30,Female,Every 3 Months
+2898,43,Female,Fortnightly
+2899,23,Female,Annually
+2900,50,Female,Fortnightly
+2901,41,Female,Bi-Weekly
+2902,41,Female,Quarterly
+2903,27,Female,Bi-Weekly
+2904,38,Female,Every 3 Months
+2905,41,Female,Monthly
+2906,58,Female,Fortnightly
+2907,58,Female,Annually
+2908,19,Female,Bi-Weekly
+2909,43,Female,Every 3 Months
+2910,27,Female,Every 3 Months
+2911,32,Female,Monthly
+2912,28,Female,Quarterly
+2913,48,Female,Bi-Weekly
+2914,43,Female,Every 3 Months
+2915,45,Female,Bi-Weekly
+2916,26,Female,Bi-Weekly
+2917,62,Female,Bi-Weekly
+2918,58,Female,Annually
+2919,19,Female,Weekly
+2920,64,Female,Monthly
+2921,33,Female,Bi-Weekly
+2922,20,Female,Fortnightly
+2923,45,Female,Quarterly
+2924,28,Female,Quarterly
+2925,47,Female,Every 3 Months
+2926,54,Female,Every 3 Months
+2927,64,Female,Weekly
+2928,45,Female,Bi-Weekly
+2929,40,Female,Weekly
+2930,31,Female,Fortnightly
+2931,38,Female,Monthly
+2932,36,Female,Bi-Weekly
+2933,65,Female,Quarterly
+2934,27,Female,Monthly
+2935,38,Female,Quarterly
+2936,58,Female,Weekly
+2937,31,Female,Weekly
+2938,28,Female,Weekly
+2939,28,Female,Monthly
+2940,32,Female,Weekly
+2941,61,Female,Monthly
+2942,38,Female,Monthly
+2943,54,Female,Weekly
+2944,29,Female,Monthly
+2945,50,Female,Every 3 Months
+2946,32,Female,Every 3 Months
+2947,38,Female,Quarterly
+2948,52,Female,Annually
+2949,61,Female,Bi-Weekly
+2950,25,Female,Annually
+2951,22,Female,Every 3 Months
+2952,47,Female,Weekly
+2953,50,Female,Monthly
+2954,45,Female,Annually
+2955,33,Female,Annually
+2956,42,Female,Annually
+2957,52,Female,Monthly
+2958,69,Female,Annually
+2959,55,Female,Monthly
+2960,38,Female,Quarterly
+2961,57,Female,Weekly
+2962,33,Female,Bi-Weekly
+2963,57,Female,Every 3 Months
+2964,52,Female,Weekly
+2965,44,Female,Fortnightly
+2966,48,Female,Fortnightly
+2967,52,Female,Every 3 Months
+2968,34,Female,Annually
+2969,26,Female,Every 3 Months
+2970,36,Female,Every 3 Months
+2971,24,Female,Bi-Weekly
+2972,30,Female,Every 3 Months
+2973,31,Female,Every 3 Months
+2974,25,Female,Fortnightly
+2975,57,Female,Weekly
+2976,61,Female,Every 3 Months
+2977,30,Female,Fortnightly
+2978,38,Female,Annually
+2979,53,Female,Fortnightly
+2980,31,Female,Weekly
+2981,70,Female,Monthly
+2982,21,Female,Annually
+2983,33,Female,Weekly
+2984,60,Female,Quarterly
+2985,45,Female,Bi-Weekly
+2986,46,Female,Bi-Weekly
+2987,62,Female,Monthly
+2988,63,Female,Monthly
+2989,69,Female,Monthly
+2990,46,Female,Weekly
+2991,69,Female,Monthly
+2992,66,Female,Bi-Weekly
+2993,41,Female,Weekly
+2994,32,Female,Bi-Weekly
+2995,69,Female,Quarterly
+2996,29,Female,Bi-Weekly
+2997,70,Female,Every 3 Months
+2998,41,Female,Every 3 Months
+2999,31,Female,Quarterly
+3000,31,Female,Monthly
+3001,57,Female,Weekly
+3002,29,Female,Quarterly
+3003,70,Female,Quarterly
+3004,51,Female,Every 3 Months
+3005,45,Female,Fortnightly
+3006,18,Female,Weekly
+3007,37,Female,Bi-Weekly
+3008,23,Female,Weekly
+3009,39,Female,Weekly
+3010,62,Female,Fortnightly
+3011,70,Female,Annually
+3012,20,Female,Every 3 Months
+3013,42,Female,Annually
+3014,41,Female,Monthly
+3015,24,Female,Every 3 Months
+3016,37,Female,Bi-Weekly
+3017,30,Female,Quarterly
+3018,58,Female,Bi-Weekly
+3019,43,Female,Bi-Weekly
+3020,19,Female,Annually
+3021,23,Female,Every 3 Months
+3022,65,Female,Quarterly
+3023,58,Female,Weekly
+3024,50,Female,Quarterly
+3025,67,Female,Every 3 Months
+3026,40,Female,Monthly
+3027,55,Female,Annually
+3028,52,Female,Quarterly
+3029,62,Female,Every 3 Months
+3030,64,Female,Quarterly
+3031,43,Female,Weekly
+3032,61,Female,Monthly
+3033,26,Female,Quarterly
+3034,22,Female,Weekly
+3035,51,Female,Quarterly
+3036,69,Female,Bi-Weekly
+3037,50,Female,Fortnightly
+3038,51,Female,Annually
+3039,56,Female,Annually
+3040,59,Female,Bi-Weekly
+3041,18,Female,Fortnightly
+3042,48,Female,Monthly
+3043,53,Female,Every 3 Months
+3044,45,Female,Monthly
+3045,21,Female,Quarterly
+3046,42,Female,Bi-Weekly
+3047,60,Female,Every 3 Months
+3048,21,Female,Bi-Weekly
+3049,69,Female,Fortnightly
+3050,40,Female,Bi-Weekly
+3051,31,Female,Every 3 Months
+3052,44,Female,Every 3 Months
+3053,48,Female,Fortnightly
+3054,32,Female,Monthly
+3055,42,Female,Monthly
+3056,27,Female,Bi-Weekly
+3057,69,Female,Bi-Weekly
+3058,67,Female,Weekly
+3059,41,Female,Fortnightly
+3060,46,Female,Quarterly
+3061,47,Female,Monthly
+3062,33,Female,Every 3 Months
+3063,51,Female,Monthly
+3064,26,Female,Fortnightly
+3065,22,Female,Quarterly
+3066,49,Female,Bi-Weekly
+3067,58,Female,Every 3 Months
+3068,70,Female,Weekly
+3069,32,Female,Weekly
+3070,62,Female,Quarterly
+3071,52,Female,Bi-Weekly
+3072,23,Female,Monthly
+3073,26,Female,Quarterly
+3074,58,Female,Bi-Weekly
+3075,26,Female,Fortnightly
+3076,54,Female,Every 3 Months
+3077,66,Female,Bi-Weekly
+3078,60,Female,Bi-Weekly
+3079,32,Female,Bi-Weekly
+3080,48,Female,Annually
+3081,69,Female,Bi-Weekly
+3082,64,Female,Weekly
+3083,56,Female,Annually
+3084,22,Female,Quarterly
+3085,46,Female,Monthly
+3086,24,Female,Every 3 Months
+3087,47,Female,Every 3 Months
+3088,62,Female,Monthly
+3089,34,Female,Quarterly
+3090,50,Female,Bi-Weekly
+3091,29,Female,Quarterly
+3092,68,Female,Annually
+3093,52,Female,Bi-Weekly
+3094,29,Female,Every 3 Months
+3095,22,Female,Weekly
+3096,62,Female,Fortnightly
+3097,69,Female,Monthly
+3098,48,Female,Quarterly
+3099,66,Female,Quarterly
+3100,42,Female,Bi-Weekly
+3101,50,Female,Weekly
+3102,32,Female,Fortnightly
+3103,51,Female,Bi-Weekly
+3104,27,Female,Weekly
+3105,43,Female,Fortnightly
+3106,48,Female,Monthly
+3107,62,Female,Annually
+3108,65,Female,Bi-Weekly
+3109,50,Female,Monthly
+3110,60,Female,Fortnightly
+3111,19,Female,Bi-Weekly
+3112,21,Female,Quarterly
+3113,19,Female,Annually
+3114,46,Female,Weekly
+3115,21,Female,Bi-Weekly
+3116,26,Female,Bi-Weekly
+3117,50,Female,Weekly
+3118,43,Female,Bi-Weekly
+3119,61,Female,Quarterly
+3120,63,Female,Every 3 Months
+3121,46,Female,Fortnightly
+3122,63,Female,Weekly
+3123,23,Female,Fortnightly
+3124,57,Female,Bi-Weekly
+3125,57,Female,Every 3 Months
+3126,33,Female,Quarterly
+3127,57,Female,Bi-Weekly
+3128,55,Female,Every 3 Months
+3129,65,Female,Annually
+3130,60,Female,Every 3 Months
+3131,52,Female,Every 3 Months
+3132,34,Female,Every 3 Months
+3133,33,Female,Quarterly
+3134,58,Female,Bi-Weekly
+3135,35,Female,Weekly
+3136,68,Female,Fortnightly
+3137,58,Female,Bi-Weekly
+3138,34,Female,Monthly
+3139,47,Female,Every 3 Months
+3140,35,Female,Weekly
+3141,34,Female,Weekly
+3142,36,Female,Bi-Weekly
+3143,23,Female,Quarterly
+3144,68,Female,Quarterly
+3145,23,Female,Quarterly
+3146,57,Female,Fortnightly
+3147,21,Female,Annually
+3148,45,Female,Weekly
+3149,37,Female,Weekly
+3150,18,Female,Annually
+3151,55,Female,Bi-Weekly
+3152,52,Female,Quarterly
+3153,49,Female,Monthly
+3154,56,Female,Fortnightly
+3155,27,Female,Quarterly
+3156,22,Female,Annually
+3157,18,Female,Monthly
+3158,21,Female,Fortnightly
+3159,30,Female,Monthly
+3160,62,Female,Quarterly
+3161,28,Female,Fortnightly
+3162,66,Female,Monthly
+3163,66,Female,Quarterly
+3164,49,Female,Monthly
+3165,40,Female,Annually
+3166,49,Female,Every 3 Months
+3167,19,Female,Fortnightly
+3168,24,Female,Bi-Weekly
+3169,31,Female,Fortnightly
+3170,35,Female,Weekly
+3171,65,Female,Fortnightly
+3172,68,Female,Bi-Weekly
+3173,57,Female,Bi-Weekly
+3174,69,Female,Fortnightly
+3175,45,Female,Monthly
+3176,35,Female,Every 3 Months
+3177,36,Female,Monthly
+3178,55,Female,Monthly
+3179,66,Female,Annually
+3180,57,Female,Bi-Weekly
+3181,18,Female,Weekly
+3182,31,Female,Every 3 Months
+3183,50,Female,Annually
+3184,50,Female,Every 3 Months
+3185,61,Female,Quarterly
+3186,52,Female,Annually
+3187,38,Female,Annually
+3188,67,Female,Weekly
+3189,42,Female,Monthly
+3190,25,Female,Bi-Weekly
+3191,41,Female,Fortnightly
+3192,62,Female,Every 3 Months
+3193,19,Female,Fortnightly
+3194,63,Female,Fortnightly
+3195,43,Female,Bi-Weekly
+3196,68,Female,Quarterly
+3197,24,Female,Fortnightly
+3198,27,Female,Every 3 Months
+3199,61,Female,Weekly
+3200,59,Female,Monthly
+3201,67,Female,Monthly
+3202,46,Female,Monthly
+3203,65,Female,Annually
+3204,63,Female,Annually
+3205,57,Female,Bi-Weekly
+3206,40,Female,Every 3 Months
+3207,36,Female,Monthly
+3208,67,Female,Annually
+3209,61,Female,Weekly
+3210,64,Female,Annually
+3211,30,Female,Bi-Weekly
+3212,53,Female,Monthly
+3213,27,Female,Weekly
+3214,27,Female,Monthly
+3215,53,Female,Annually
+3216,34,Female,Every 3 Months
+3217,39,Female,Weekly
+3218,44,Female,Weekly
+3219,37,Female,Monthly
+3220,57,Female,Weekly
+3221,38,Female,Monthly
+3222,21,Female,Annually
+3223,45,Female,Quarterly
+3224,68,Female,Bi-Weekly
+3225,37,Female,Monthly
+3226,53,Female,Weekly
+3227,57,Female,Fortnightly
+3228,28,Female,Quarterly
+3229,37,Female,Annually
+3230,54,Female,Monthly
+3231,49,Female,Annually
+3232,62,Female,Annually
+3233,45,Female,Monthly
+3234,45,Female,Bi-Weekly
+3235,49,Female,Quarterly
+3236,27,Female,Monthly
+3237,63,Female,Monthly
+3238,61,Female,Weekly
+3239,25,Female,Quarterly
+3240,33,Female,Monthly
+3241,56,Female,Monthly
+3242,50,Female,Quarterly
+3243,45,Female,Weekly
+3244,45,Female,Every 3 Months
+3245,65,Female,Annually
+3246,63,Female,Weekly
+3247,70,Female,Monthly
+3248,53,Female,Fortnightly
+3249,22,Female,Quarterly
+3250,26,Female,Quarterly
+3251,23,Female,Weekly
+3252,25,Female,Quarterly
+3253,69,Female,Fortnightly
+3254,36,Female,Fortnightly
+3255,21,Female,Every 3 Months
+3256,57,Female,Monthly
+3257,60,Female,Every 3 Months
+3258,44,Female,Every 3 Months
+3259,31,Female,Bi-Weekly
+3260,57,Female,Every 3 Months
+3261,39,Female,Annually
+3262,48,Female,Weekly
+3263,42,Female,Every 3 Months
+3264,56,Female,Fortnightly
+3265,28,Female,Bi-Weekly
+3266,40,Female,Fortnightly
+3267,49,Female,Weekly
+3268,37,Female,Quarterly
+3269,22,Female,Every 3 Months
+3270,27,Female,Monthly
+3271,59,Female,Annually
+3272,35,Female,Weekly
+3273,58,Female,Quarterly
+3274,58,Female,Every 3 Months
+3275,46,Female,Fortnightly
+3276,43,Female,Weekly
+3277,39,Female,Every 3 Months
+3278,59,Female,Monthly
+3279,59,Female,Weekly
+3280,59,Female,Fortnightly
+3281,45,Female,Monthly
+3282,27,Female,Annually
+3283,24,Female,Monthly
+3284,47,Female,Every 3 Months
+3285,70,Female,Annually
+3286,58,Female,Weekly
+3287,45,Female,Fortnightly
+3288,24,Female,Weekly
+3289,67,Female,Bi-Weekly
+3290,31,Female,Every 3 Months
+3291,52,Female,Monthly
+3292,29,Female,Monthly
+3293,62,Female,Fortnightly
+3294,19,Female,Fortnightly
+3295,62,Female,Bi-Weekly
+3296,70,Female,Weekly
+3297,20,Female,Quarterly
+3298,67,Female,Monthly
+3299,65,Female,Every 3 Months
+3300,45,Female,Monthly
+3301,26,Female,Bi-Weekly
+3302,36,Female,Fortnightly
+3303,36,Female,Bi-Weekly
+3304,20,Female,Fortnightly
+3305,30,Female,Every 3 Months
+3306,34,Female,Bi-Weekly
+3307,63,Female,Fortnightly
+3308,18,Female,Monthly
+3309,55,Female,Monthly
+3310,48,Female,Monthly
+3311,45,Female,Fortnightly
+3312,29,Female,Annually
+3313,55,Female,Quarterly
+3314,55,Female,Monthly
+3315,55,Female,Quarterly
+3316,48,Female,Every 3 Months
+3317,42,Female,Fortnightly
+3318,21,Female,Quarterly
+3319,45,Female,Monthly
+3320,23,Female,Every 3 Months
+3321,66,Female,Every 3 Months
+3322,32,Female,Annually
+3323,52,Female,Weekly
+3324,54,Female,Monthly
+3325,37,Female,Weekly
+3326,29,Female,Monthly
+3327,47,Female,Annually
+3328,47,Female,Quarterly
+3329,42,Female,Bi-Weekly
+3330,34,Female,Bi-Weekly
+3331,38,Female,Quarterly
+3332,55,Female,Quarterly
+3333,27,Female,Bi-Weekly
+3334,55,Female,Monthly
+3335,66,Female,Annually
+3336,44,Female,Quarterly
+3337,39,Female,Annually
+3338,23,Female,Bi-Weekly
+3339,29,Female,Monthly
+3340,20,Female,Fortnightly
+3341,42,Female,Fortnightly
+3342,55,Female,Monthly
+3343,66,Female,Weekly
+3344,24,Female,Bi-Weekly
+3345,62,Female,Annually
+3346,28,Female,Bi-Weekly
+3347,30,Female,Quarterly
+3348,22,Female,Bi-Weekly
+3349,28,Female,Every 3 Months
+3350,35,Female,Quarterly
+3351,45,Female,Bi-Weekly
+3352,43,Female,Fortnightly
+3353,55,Female,Bi-Weekly
+3354,31,Female,Every 3 Months
+3355,42,Female,Weekly
+3356,40,Female,Bi-Weekly
+3357,39,Female,Bi-Weekly
+3358,41,Female,Monthly
+3359,56,Female,Annually
+3360,43,Female,Monthly
+3361,22,Female,Every 3 Months
+3362,47,Female,Bi-Weekly
+3363,50,Female,Fortnightly
+3364,58,Female,Bi-Weekly
+3365,50,Female,Monthly
+3366,43,Female,Every 3 Months
+3367,38,Female,Quarterly
+3368,44,Female,Fortnightly
+3369,30,Female,Every 3 Months
+3370,47,Female,Monthly
+3371,30,Female,Fortnightly
+3372,49,Female,Annually
+3373,56,Female,Every 3 Months
+3374,70,Female,Every 3 Months
+3375,22,Female,Annually
+3376,51,Female,Annually
+3377,22,Female,Quarterly
+3378,37,Female,Fortnightly
+3379,49,Female,Quarterly
+3380,61,Female,Weekly
+3381,41,Female,Every 3 Months
+3382,57,Female,Quarterly
+3383,34,Female,Weekly
+3384,27,Female,Bi-Weekly
+3385,39,Female,Quarterly
+3386,62,Female,Every 3 Months
+3387,34,Female,Quarterly
+3388,53,Female,Bi-Weekly
+3389,35,Female,Weekly
+3390,38,Female,Annually
+3391,32,Female,Annually
+3392,47,Female,Every 3 Months
+3393,53,Female,Bi-Weekly
+3394,60,Female,Monthly
+3395,31,Female,Annually
+3396,44,Female,Every 3 Months
+3397,29,Female,Quarterly
+3398,19,Female,Bi-Weekly
+3399,54,Female,Fortnightly
+3400,40,Female,Annually
+3401,39,Female,Fortnightly
+3402,44,Female,Weekly
+3403,22,Female,Every 3 Months
+3404,30,Female,Bi-Weekly
+3405,69,Female,Annually
+3406,28,Female,Bi-Weekly
+3407,57,Female,Quarterly
+3408,46,Female,Quarterly
+3409,48,Female,Annually
+3410,24,Female,Every 3 Months
+3411,50,Female,Bi-Weekly
+3412,29,Female,Weekly
+3413,61,Female,Quarterly
+3414,34,Female,Bi-Weekly
+3415,27,Female,Quarterly
+3416,38,Female,Annually
+3417,25,Female,Every 3 Months
+3418,54,Female,Fortnightly
+3419,53,Female,Annually
+3420,23,Female,Bi-Weekly
+3421,19,Female,Bi-Weekly
+3422,57,Female,Weekly
+3423,19,Female,Monthly
+3424,33,Female,Bi-Weekly
+3425,33,Female,Monthly
+3426,38,Female,Bi-Weekly
+3427,47,Female,Annually
+3428,39,Female,Annually
+3429,32,Female,Monthly
+3430,27,Female,Weekly
+3431,67,Female,Every 3 Months
+3432,46,Female,Annually
+3433,36,Female,Every 3 Months
+3434,62,Female,Annually
+3435,31,Female,Fortnightly
+3436,68,Female,Bi-Weekly
+3437,57,Female,Monthly
+3438,22,Female,Annually
+3439,26,Female,Monthly
+3440,43,Female,Quarterly
+3441,45,Female,Weekly
+3442,64,Female,Annually
+3443,28,Female,Weekly
+3444,47,Female,Bi-Weekly
+3445,53,Female,Bi-Weekly
+3446,42,Female,Annually
+3447,51,Female,Weekly
+3448,62,Female,Bi-Weekly
+3449,18,Female,Fortnightly
+3450,48,Female,Monthly
+3451,20,Female,Monthly
+3452,32,Female,Annually
+3453,26,Female,Fortnightly
+3454,31,Female,Bi-Weekly
+3455,55,Female,Bi-Weekly
+3456,49,Female,Annually
+3457,42,Female,Monthly
+3458,64,Female,Fortnightly
+3459,68,Female,Quarterly
+3460,68,Female,Annually
+3461,41,Female,Bi-Weekly
+3462,51,Female,Quarterly
+3463,44,Female,Every 3 Months
+3464,27,Female,Fortnightly
+3465,36,Female,Annually
+3466,19,Female,Weekly
+3467,49,Female,Annually
+3468,18,Female,Annually
+3469,36,Female,Quarterly
+3470,36,Female,Annually
+3471,19,Female,Bi-Weekly
+3472,43,Female,Bi-Weekly
+3473,31,Female,Weekly
+3474,63,Female,Weekly
+3475,41,Female,Monthly
+3476,48,Female,Quarterly
+3477,68,Female,Weekly
+3478,53,Female,Bi-Weekly
+3479,36,Female,Quarterly
+3480,46,Female,Monthly
+3481,21,Female,Monthly
+3482,52,Female,Bi-Weekly
+3483,66,Female,Weekly
+3484,19,Female,Every 3 Months
+3485,44,Female,Bi-Weekly
+3486,50,Female,Fortnightly
+3487,51,Female,Weekly
+3488,25,Female,Annually
+3489,62,Female,Quarterly
+3490,48,Female,Every 3 Months
+3491,62,Female,Quarterly
+3492,22,Female,Monthly
+3493,48,Female,Annually
+3494,48,Female,Weekly
+3495,62,Female,Quarterly
+3496,24,Female,Weekly
+3497,39,Female,Monthly
+3498,35,Female,Every 3 Months
+3499,47,Female,Bi-Weekly
+3500,22,Female,Every 3 Months
+3501,38,Female,Fortnightly
+3502,53,Female,Weekly
+3503,31,Female,Quarterly
+3504,31,Female,Weekly
+3505,65,Female,Monthly
+3506,48,Female,Every 3 Months
+3507,18,Female,Fortnightly
+3508,46,Female,Every 3 Months
+3509,52,Female,Weekly
+3510,50,Female,Bi-Weekly
+3511,49,Female,Monthly
+3512,69,Female,Every 3 Months
+3513,36,Female,Quarterly
+3514,30,Female,Fortnightly
+3515,25,Female,Monthly
+3516,19,Female,Bi-Weekly
+3517,34,Female,Bi-Weekly
+3518,29,Female,Every 3 Months
+3519,50,Female,Quarterly
+3520,31,Female,Fortnightly
+3521,41,Female,Monthly
+3522,52,Female,Weekly
+3523,27,Female,Quarterly
+3524,49,Female,Fortnightly
+3525,69,Female,Monthly
+3526,45,Female,Annually
+3527,20,Female,Every 3 Months
+3528,25,Female,Weekly
+3529,38,Female,Annually
+3530,55,Female,Weekly
+3531,62,Female,Weekly
+3532,54,Female,Quarterly
+3533,61,Female,Annually
+3534,50,Female,Fortnightly
+3535,65,Female,Weekly
+3536,68,Female,Monthly
+3537,55,Female,Monthly
+3538,57,Female,Every 3 Months
+3539,56,Female,Monthly
+3540,29,Female,Bi-Weekly
+3541,24,Female,Weekly
+3542,59,Female,Annually
+3543,62,Female,Weekly
+3544,58,Female,Every 3 Months
+3545,64,Female,Every 3 Months
+3546,48,Female,Annually
+3547,60,Female,Bi-Weekly
+3548,52,Female,Annually
+3549,63,Female,Fortnightly
+3550,44,Female,Fortnightly
+3551,63,Female,Weekly
+3552,66,Female,Weekly
+3553,22,Female,Quarterly
+3554,62,Female,Weekly
+3555,39,Female,Fortnightly
+3556,25,Female,Quarterly
+3557,70,Female,Bi-Weekly
+3558,52,Female,Every 3 Months
+3559,68,Female,Quarterly
+3560,18,Female,Every 3 Months
+3561,18,Female,Annually
+3562,63,Female,Fortnightly
+3563,47,Female,Weekly
+3564,43,Female,Every 3 Months
+3565,60,Female,Annually
+3566,49,Female,Monthly
+3567,28,Female,Monthly
+3568,32,Female,Monthly
+3569,29,Female,Quarterly
+3570,35,Female,Fortnightly
+3571,23,Female,Annually
+3572,70,Female,Every 3 Months
+3573,23,Female,Monthly
+3574,43,Female,Monthly
+3575,29,Female,Quarterly
+3576,61,Female,Bi-Weekly
+3577,29,Female,Bi-Weekly
+3578,66,Female,Weekly
+3579,46,Female,Quarterly
+3580,34,Female,Every 3 Months
+3581,51,Female,Bi-Weekly
+3582,26,Female,Weekly
+3583,23,Female,Annually
+3584,52,Female,Every 3 Months
+3585,39,Female,Monthly
+3586,39,Female,Bi-Weekly
+3587,33,Female,Bi-Weekly
+3588,33,Female,Annually
+3589,23,Female,Annually
+3590,31,Female,Every 3 Months
+3591,27,Female,Every 3 Months
+3592,48,Female,Quarterly
+3593,61,Female,Fortnightly
+3594,63,Female,Monthly
+3595,19,Female,Quarterly
+3596,21,Female,Annually
+3597,28,Female,Fortnightly
+3598,29,Female,Quarterly
+3599,23,Female,Bi-Weekly
+3600,37,Female,Weekly
+3601,67,Female,Bi-Weekly
+3602,34,Female,Monthly
+3603,58,Female,Quarterly
+3604,45,Female,Weekly
+3605,63,Female,Annually
+3606,68,Female,Every 3 Months
+3607,41,Female,Annually
+3608,50,Female,Bi-Weekly
+3609,24,Female,Every 3 Months
+3610,21,Female,Monthly
+3611,18,Female,Fortnightly
+3612,63,Female,Annually
+3613,47,Female,Every 3 Months
+3614,58,Female,Annually
+3615,46,Female,Annually
+3616,35,Female,Monthly
+3617,42,Female,Fortnightly
+3618,48,Female,Monthly
+3619,28,Female,Bi-Weekly
+3620,44,Female,Weekly
+3621,60,Female,Fortnightly
+3622,38,Female,Fortnightly
+3623,46,Female,Annually
+3624,39,Female,Weekly
+3625,22,Female,Bi-Weekly
+3626,44,Female,Weekly
+3627,69,Female,Quarterly
+3628,39,Female,Every 3 Months
+3629,53,Female,Monthly
+3630,52,Female,Fortnightly
+3631,65,Female,Weekly
+3632,48,Female,Monthly
+3633,27,Female,Quarterly
+3634,39,Female,Bi-Weekly
+3635,59,Female,Annually
+3636,52,Female,Fortnightly
+3637,50,Female,Weekly
+3638,32,Female,Fortnightly
+3639,40,Female,Bi-Weekly
+3640,26,Female,Annually
+3641,47,Female,Monthly
+3642,51,Female,Every 3 Months
+3643,47,Female,Annually
+3644,53,Female,Annually
+3645,35,Female,Weekly
+3646,38,Female,Every 3 Months
+3647,69,Female,Fortnightly
+3648,47,Female,Weekly
+3649,31,Female,Bi-Weekly
+3650,68,Female,Fortnightly
+3651,51,Female,Annually
+3652,20,Female,Every 3 Months
+3653,27,Female,Monthly
+3654,67,Female,Fortnightly
+3655,21,Female,Annually
+3656,20,Female,Bi-Weekly
+3657,35,Female,Monthly
+3658,58,Female,Every 3 Months
+3659,28,Female,Fortnightly
+3660,27,Female,Annually
+3661,19,Female,Fortnightly
+3662,63,Female,Fortnightly
+3663,69,Female,Weekly
+3664,65,Female,Weekly
+3665,63,Female,Fortnightly
+3666,28,Female,Quarterly
+3667,67,Female,Every 3 Months
+3668,51,Female,Monthly
+3669,59,Female,Annually
+3670,25,Female,Quarterly
+3671,31,Female,Every 3 Months
+3672,62,Female,Quarterly
+3673,51,Female,Monthly
+3674,32,Female,Fortnightly
+3675,35,Female,Fortnightly
+3676,70,Female,Monthly
+3677,19,Female,Monthly
+3678,32,Female,Annually
+3679,56,Female,Fortnightly
+3680,53,Female,Bi-Weekly
+3681,22,Female,Quarterly
+3682,26,Female,Monthly
+3683,42,Female,Bi-Weekly
+3684,30,Female,Fortnightly
+3685,29,Female,Bi-Weekly
+3686,47,Female,Bi-Weekly
+3687,59,Female,Bi-Weekly
+3688,34,Female,Every 3 Months
+3689,52,Female,Monthly
+3690,47,Female,Quarterly
+3691,24,Female,Bi-Weekly
+3692,63,Female,Weekly
+3693,59,Female,Fortnightly
+3694,66,Female,Weekly
+3695,45,Female,Bi-Weekly
+3696,38,Female,Fortnightly
+3697,63,Female,Annually
+3698,55,Female,Weekly
+3699,25,Female,Annually
+3700,51,Female,Weekly
+3701,28,Female,Every 3 Months
+3702,46,Female,Annually
+3703,58,Female,Weekly
+3704,30,Female,Every 3 Months
+3705,68,Female,Quarterly
+3706,28,Female,Annually
+3707,26,Female,Bi-Weekly
+3708,35,Female,Weekly
+3709,40,Female,Monthly
+3710,31,Female,Quarterly
+3711,60,Female,Fortnightly
+3712,69,Female,Annually
+3713,51,Female,Quarterly
+3714,49,Female,Every 3 Months
+3715,18,Female,Weekly
+3716,63,Female,Monthly
+3717,57,Female,Every 3 Months
+3718,45,Female,Every 3 Months
+3719,36,Female,Bi-Weekly
+3720,20,Female,Every 3 Months
+3721,21,Female,Quarterly
+3722,62,Female,Annually
+3723,23,Female,Fortnightly
+3724,26,Female,Monthly
+3725,30,Female,Annually
+3726,18,Female,Annually
+3727,47,Female,Every 3 Months
+3728,41,Female,Bi-Weekly
+3729,62,Female,Annually
+3730,28,Female,Quarterly
+3731,46,Female,Bi-Weekly
+3732,54,Female,Quarterly
+3733,36,Female,Annually
+3734,25,Female,Every 3 Months
+3735,38,Female,Every 3 Months
+3736,38,Female,Annually
+3737,42,Female,Every 3 Months
+3738,19,Female,Bi-Weekly
+3739,34,Female,Fortnightly
+3740,38,Female,Weekly
+3741,42,Female,Bi-Weekly
+3742,58,Female,Bi-Weekly
+3743,56,Female,Bi-Weekly
+3744,62,Female,Quarterly
+3745,24,Female,Fortnightly
+3746,60,Female,Monthly
+3747,53,Female,Monthly
+3748,26,Female,Bi-Weekly
+3749,34,Female,Annually
+3750,24,Female,Every 3 Months
+3751,42,Female,Monthly
+3752,36,Female,Every 3 Months
+3753,24,Female,Weekly
+3754,39,Female,Fortnightly
+3755,46,Female,Every 3 Months
+3756,64,Female,Monthly
+3757,64,Female,Bi-Weekly
+3758,61,Female,Weekly
+3759,61,Female,Quarterly
+3760,44,Female,Quarterly
+3761,65,Female,Weekly
+3762,60,Female,Every 3 Months
+3763,65,Female,Annually
+3764,27,Female,Every 3 Months
+3765,36,Female,Monthly
+3766,22,Female,Bi-Weekly
+3767,62,Female,Annually
+3768,59,Female,Fortnightly
+3769,50,Female,Quarterly
+3770,51,Female,Annually
+3771,23,Female,Weekly
+3772,21,Female,Bi-Weekly
+3773,44,Female,Annually
+3774,25,Female,Quarterly
+3775,57,Female,Fortnightly
+3776,41,Female,Quarterly
+3777,19,Female,Fortnightly
+3778,43,Female,Weekly
+3779,25,Female,Annually
+3780,60,Female,Annually
+3781,54,Female,Quarterly
+3782,52,Female,Fortnightly
+3783,40,Female,Fortnightly
+3784,39,Female,Fortnightly
+3785,54,Female,Annually
+3786,64,Female,Monthly
+3787,31,Female,Weekly
+3788,37,Female,Every 3 Months
+3789,43,Female,Monthly
+3790,56,Female,Every 3 Months
+3791,27,Female,Weekly
+3792,40,Female,Weekly
+3793,43,Female,Fortnightly
+3794,62,Female,Annually
+3795,44,Female,Weekly
+3796,45,Female,Weekly
+3797,40,Female,Quarterly
+3798,68,Female,Quarterly
+3799,63,Female,Annually
+3800,60,Female,Monthly
+3801,19,Female,Bi-Weekly
+3802,26,Female,Fortnightly
+3803,70,Female,Monthly
+3804,48,Female,Weekly
+3805,37,Female,Annually
+3806,48,Female,Quarterly
+3807,18,Female,Weekly
+3808,38,Female,Annually
+3809,33,Female,Bi-Weekly
+3810,57,Female,Annually
+3811,46,Female,Monthly
+3812,46,Female,Monthly
+3813,50,Female,Every 3 Months
+3814,61,Female,Bi-Weekly
+3815,45,Female,Every 3 Months
+3816,32,Female,Fortnightly
+3817,29,Female,Fortnightly
+3818,66,Female,Annually
+3819,70,Female,Monthly
+3820,36,Female,Quarterly
+3821,34,Female,Quarterly
+3822,20,Female,Every 3 Months
+3823,70,Female,Every 3 Months
+3824,50,Female,Weekly
+3825,54,Female,Quarterly
+3826,49,Female,Fortnightly
+3827,50,Female,Annually
+3828,62,Female,Fortnightly
+3829,42,Female,Weekly
+3830,69,Female,Fortnightly
+3831,22,Female,Every 3 Months
+3832,36,Female,Every 3 Months
+3833,64,Female,Weekly
+3834,44,Female,Every 3 Months
+3835,43,Female,Quarterly
+3836,58,Female,Bi-Weekly
+3837,62,Female,Fortnightly
+3838,45,Female,Fortnightly
+3839,47,Female,Every 3 Months
+3840,66,Female,Quarterly
+3841,30,Female,Fortnightly
+3842,68,Female,Monthly
+3843,35,Female,Monthly
+3844,64,Female,Every 3 Months
+3845,30,Female,Quarterly
+3846,58,Female,Annually
+3847,57,Female,Every 3 Months
+3848,60,Female,Fortnightly
+3849,22,Female,Every 3 Months
+3850,46,Female,Fortnightly
+3851,27,Female,Every 3 Months
+3852,50,Female,Annually
+3853,65,Female,Weekly
+3854,61,Female,Bi-Weekly
+3855,57,Female,Annually
+3856,40,Female,Quarterly
+3857,39,Female,Quarterly
+3858,42,Female,Every 3 Months
+3859,30,Female,Quarterly
+3860,65,Female,Bi-Weekly
+3861,57,Female,Annually
+3862,64,Female,Monthly
+3863,56,Female,Monthly
+3864,40,Female,Fortnightly
+3865,55,Female,Fortnightly
+3866,25,Female,Every 3 Months
+3867,58,Female,Fortnightly
+3868,46,Female,Monthly
+3869,18,Female,Annually
+3870,26,Female,Annually
+3871,61,Female,Every 3 Months
+3872,55,Female,Every 3 Months
+3873,41,Female,Monthly
+3874,42,Female,Weekly
+3875,70,Female,Bi-Weekly
+3876,63,Female,Annually
+3877,60,Female,Annually
+3878,28,Female,Monthly
+3879,60,Female,Annually
+3880,26,Female,Quarterly
+3881,42,Female,Monthly
+3882,56,Female,Weekly
+3883,35,Female,Fortnightly
+3884,34,Female,Fortnightly
+3885,47,Female,Weekly
+3886,49,Female,Quarterly
+3887,37,Female,Quarterly
+3888,40,Female,Quarterly
+3889,45,Female,Bi-Weekly
+3890,57,Female,Annually
+3891,35,Female,Annually
+3892,36,Female,Quarterly
+3893,35,Female,Fortnightly
+3894,21,Female,Bi-Weekly
+3895,66,Female,Every 3 Months
+3896,40,Female,Weekly
+3897,52,Female,Bi-Weekly
+3898,46,Female,Quarterly
+3899,44,Female,Weekly
+3900,52,Female,Quarterly
