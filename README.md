@@ -1,4 +1,5 @@
-## **Customer Segmentation and Data Analysis**:
+## **Customer Segmentation and Data Analysis**
+## Overview
 This project analyzes customer purchasing behavior and generates insights using data analysis and visualization tools. It performs database operations to store and query data, as well as statistical analysis to uncover spending patterns.
 
 ## **Project Features**:
