@@ -1,7 +1,7 @@
 ## **Customer Segmentation and Data Analysis**
 This project analyzes customer purchasing behavior and generates insights using data analysis and visualization tools. It performs database operations to store and query data, as well as statistical analysis to uncover spending patterns.
 
-## **Project Features**:
+## **Project Features**
 - **Database Operations**:
     - MySQL database setup and population with customer, item, and purchase data.
     - SQL queries to retrieve aggregated insights.
