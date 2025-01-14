@@ -47,7 +47,6 @@ def verify_purchase(connection, purchase_id):
     print("\n")
 
 
-
 def output_view(connection, view_name):
     print(f"Contents of {view_name}:")
     result = connection.execute(text(f"SELECT * FROM {view_name};"))
@@ -202,13 +201,11 @@ if __name__ == "__main__":
         # Insert Example
         print("Testing INSERT operation...")
         insert_customer(connection, customer_id=3901, age=30, gender='Male', frequency_of_purchases='Monthly')
-        insert_purchase(connection, purchase_id=5000, customer_id=3901, item_id=24, purchase_amount=300,
-                        discount_applied='Yes', season='Winter')
-        insert_purchase(connection, purchase_id=5003, customer_id=14, item_id=24, purchase_amount=300,
-                        discount_applied='Yes', season='Winter')
+        insert_purchase(connection, purchase_id=5000, customer_id=3901, item_id=24, purchase_amount=300, discount_applied='Yes', season='Winter')
+        insert_purchase(connection, purchase_id=5006, customer_id=24, item_id=24, purchase_amount=100, discount_applied='Yes', season='Winter')
         output_table(connection, "customer_data")
         output_table(connection, "purchases_data")
-        verify_purchase(connection, purchase_id=5003)
+        verify_purchase(connection, purchase_id=5006)
 
         # Update Example
         print("Testing UPDATE operation...")
